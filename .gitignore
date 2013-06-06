@@ -1,0 +1,15 @@
+*.db
+*.7z
+obj
+*.pdb
+*.xml
+*.old
+SQLite.Interop*
+copter*.jpg
+fronds*.jpg
+jetty*.jpg
+reeds*.jpg
+Temp
+SearchIndex
+*.suo
+*.user
