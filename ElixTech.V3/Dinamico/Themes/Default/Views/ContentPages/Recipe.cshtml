@@ -1,0 +1,51 @@
+﻿@model Dinamico.Models.ContentPage
+
+@{
+	Content.Define(re => 
+	{
+		re.Title = "Recipe";
+		re.Text("Servings");
+        re.Text("Data", "Ingredients").Configure(r2 => { r2.Rows = 6; r2.Columns = 48; r2.TextMode = System.Web.UI.WebControls.TextBoxMode.MultiLine; });
+	});
+    
+    N2.Extensions.CsvImport csv = new N2.Extensions.CsvImport(Model);
+}
+
+<h1>@Model.Title</h1>
+
+<p><b>Makes about @Content.Data.Servings servings.</b></p>
+
+@{ Html.DroppableZone("AboveContent").Render(); }
+
+@if (csv.Rows.Length > 0) {
+    
+    <div class="container-fluid">
+        <div class="row">
+            <div class="span4">
+                <h2>Ingredients</h2>
+                <table class="table-condensed">
+                    @foreach (var row in csv.Rows) {
+                        <tr>
+                            @foreach (var cell in row) { <td>@cell</td> }
+                        </tr>
+                    }
+                </table>
+                <p style="margin-top: 1em;">@Content.Display.Image</p>
+            </div>
+            <div class="span7">
+                @{ Html.DroppableZone("BeforePreparation").Render(); }
+                <h2>Preparation</h2>
+                @Content.Display.Text
+                <div style="margin-top: 1em;">@{ Html.DroppableZone("AfterPreparation").Render(); }</div>
+            </div>
+        </div>
+    </div>
+    
+}
+else
+{
+    @Content.Display.Text    
+}
+
+
+@{ Html.DroppableZone("BelowContent").Render(); }
