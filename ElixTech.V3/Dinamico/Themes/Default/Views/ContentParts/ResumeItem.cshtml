@@ -1,0 +1,15 @@
+﻿@model Dinamico.Models.ContentPart
+
+@{ Content.Define(re =>
+				{
+					re.Title = "Resume Entry";
+					re.Text("Title");
+					re.Text("Dates");
+					re.FreeText("Description");
+				});
+}
+<div>
+	<h3 style="margin-bottom: 0; padding-bottom: 0; font-size: 1.2em; line-height: 1.2em;">@Content.Render.Tokens("Title")</h3>
+	<p style="color: gray; margin-top: 0; padding-top: 0;">@Content.Render.Tokens("Dates")</p>
+	@Content.Render.Tokens("Description")
+</div>

@@ -3,7 +3,10 @@
 <!--[if IE 7 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="@Content.Current.LanguageCode" class="no-js"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="@Content.Current.LanguageCode" class="no-js">
+<head>
+	<!--<![endif]-->
 	<link href='http://fonts.googleapis.com/css?family=Signika:400,600,300' rel='stylesheet' type='text/css'>
 
 	@{ Html.RenderPartial("LayoutPartials/Head"); }
@@ -12,12 +15,12 @@
 	@{ Html.Resources().JavaScript(N2.Resources.Register.TwitterBootstrapJsPath); }
 	@{ Html.Resources().JavaScript(Url.ThemedContent("~/Scripts/site.js")); }
 	@{
-		Content.PrependDefinition(re =>
-		{
-			re.Tab("Content", "Content");
-			re.PublishedRange().Container("Metadata");
-		});
-	 }
+			Content.PrependDefinition(re =>
+			{
+				re.Tab("Content", "Content");
+				re.PublishedRange().Container("Metadata");
+			});
+	}
 	@RenderSection("head", required: false)
 	@{ var green = "#518D3F"; }
 	<style type="text/css">
@@ -31,7 +34,7 @@
 		.mgleft  { padding-left:  1em; }
 		.mgright { padding-right: 1em; }
 		#main-container { padding: 0; }
-		#toprow { background-color: @green; color: white; padding-top: 1em;  }
+		#toprow { background-color: @green;  color: white; padding-top: 1em; }
 		#toprow>div { height: 3em; }
 		@@media (max-width: 767px) { #logo { position: absolute; right: 1em; top: 0; } }
 		@@media (min-width: 768px) { #logo { position: absolute; left: 2em; top: 0; } }
@@ -41,74 +44,91 @@
 		#topnav a:link, #topnav a:visited { font-size: 22px; font-weight: 400; }
 		.footer { font-size: 14px; color: #666; } 
 	</style>
+	<script type="text/javascript">
+		$(document).ready(function () { $("#grn").height($("#toprow").height()); });
+	</script>
 </head>
 <body>
 
-@{ Html.ControlPanel().Render(); }
-<div class="container" id="main-container" style="overflow: hidden;">
+	@{ Html.ControlPanel().Render(); }
+	<div class="container" id="main-container" style="overflow: hidden;">
 
-	<!-- Header row -->
-	<div class="row" id="toprow">
-		<div class="span1" style="position: relative;">
-			<img src="@Url.ThemedContent("~/img/kokopelli.png")" id="logo" />
-		</div>
-		<div class="span2" id="toph1">
-			<div class="mgleft"><h1><a href="/">Ben&nbsp;Herila</a></h1></div>
-		</div>
-		<div class="span9" id="topnav">
-			@foreach (var x in Content.Traverse.StartPage.Children.Where(f => f is Dinamico.Models.ContentPage))
-			{
-				<span>[ <a href="@x.Url">@(x.Title)</a> ] </span>
-			}
-		</div>
-	</div>
+		<div id="grn" style="position: absolute; left: 0; top: 0; width: 100%; background-color: @green; height: 5em; z-index: -1000; padding-top: 1em;"></div>
 
-	<!-- Body background stretch -->
-	<div class="row">
-		<div class="span1 hidden-phone"></div>
-		<div class="span10" style="background: #fff; margin-bottom: -99999px; padding-bottom: 99999px;"></div>
-	</div>
-
-	<!-- Page area -->
-	@if (IsSectionDefined("page")) 
-	{
-		@RenderSection("page", false);
-		@RenderBody();
-	}
-	else
-	{
-		<!-- Body area -->
-		<div class="row" style="overflow: hidden; position: relative;">
-			<div class="span1 hidden-phone"></div>
-			<div class="span2">
-				<div class="mgleft">Nav</div>
-				@{ Html.DroppableZone("BelowNavigation").Render(); }
+		<!-- Header row -->
+		<div class="row" id="toprow">
+			<div class="span1" style="position: relative;">
+				<img src="@Url.ThemedContent("~/img/kokopelli.png")" id="logo" />
 			</div>
-			<div class="span8">
-				<div class="mgright">
-					@RenderSection("main", required: false)
-					@RenderBody()
+			<div class="span2" id="toph1">
+				<div class="mgleft">
+					<h1><a href="/">Ben&nbsp;Herila</a></h1>
 				</div>
 			</div>
+			<div class="span9" id="topnav">
+				@foreach (var x in Content.Traverse.StartPage.Children.Where(f => f is Dinamico.Models.ContentPage))
+		{
+					<span>[ <a href="@x.Url">@(x.Title)</a> ] </span>
+				}
+			</div>
 		</div>
-		
-		<!-- Footer -->
+
+		<!-- Body background stretch -->
 		<div class="row">
 			<div class="span1 hidden-phone"></div>
-			<div class="span2">
-				&nbsp;
-			</div>
-			<div class="span8">
-				<div class="mgright footer">
-					@{ Html.RenderPartial("LayoutPartials/Footer"); }
+			<div class="span10" style="background: #fff; margin-bottom: -99999px; padding-bottom: 99999px;"></div>
+		</div>
+
+		<!-- Page area -->
+		@if (IsSectionDefined("page"))
+	{
+			@RenderSection("page", false);
+			@RenderBody();
+		}
+	else
+	{
+			<!-- Body area -->
+			<div class="row" style="overflow: hidden; position: relative;">
+				<div class="span1 hidden-phone"></div>
+				<div class="span2">
+					<div class="mgleft">
+						@{ 
+							var p = new N2.Web.MenuPart()
+							{
+								TitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
+								StartFromLevel = 3,
+								ShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always								
+							};		
+						}
+						@Html.Raw(new N2.Web.MenuPartRenderer(p).GetHtml())								
+					</div>
+					@{ Html.DroppableZone("BelowNavigation").Render(); }
+				</div>
+				<div class="span8">
+					<div class="mgright">
+						@RenderSection("main", required: false)
+						@RenderBody()
+					</div>
 				</div>
 			</div>
-		</div>
-	}
+		
+			<!-- Footer -->
+			<div class="row">
+				<div class="span1 hidden-phone"></div>
+				<div class="span2">
+					&nbsp;
+				</div>
+				<div class="span8">
+					<div class="mgright footer">
+						@{ Html.RenderPartial("LayoutPartials/Footer"); }
+					</div>
+				</div>
+			</div>
+		}
 
-</div>
+	</div>
 
-@*	
+	@*	
 	@{ Html.RenderPartial("LayoutPartials/Navbar"); }
 	<div class="container">
 
