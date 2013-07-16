@@ -92,12 +92,11 @@
 				<div class="span1 hidden-phone"></div>
 				<div class="span2">
 					<div class="mgleft">
-						@{ 
-							var p = new N2.Web.MenuPart()
-							{
-								TitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
-								StartFromLevel = 3,
-								ShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always								
+						@{
+							var p = new N2.Web.MenuPart() {			
+								MenuTitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
+								MenuStartFromLevel = 2,
+								MenuShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always								
 							};		
 						}
 						@Html.Raw(new N2.Web.MenuPartRenderer(p).GetHtml())								
