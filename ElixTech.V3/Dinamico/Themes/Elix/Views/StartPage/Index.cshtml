@@ -1,0 +1,20 @@
+﻿@model Dinamico.Models.StartPage
+
+@section main {
+    <!-- Body area -->
+    <div class="row-fluid" style="overflow: hidden; position: relative;">
+        <div class="span1 hidden-phone"></div>
+        <div class="span5">
+            <div class="mgleft">
+                @{ Html.DroppableZone("AboveContent").Render(); }
+                <div class="entry-content">
+	                @Content.Display.Text
+                </div>
+                @{ Html.DroppableZone("BelowContent").Render(); }
+            </div>
+        </div>
+        <div class="span5">
+            <div class="mgright">@{ Html.DroppableZone("BesideContent").Render(); }</div>
+        </div>
+    </div>
+}

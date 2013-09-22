@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="@Content.Current.LanguageCode">
+<head>
+	@if (false) { <title></title> } @*  Make the syntax checker happy  *@
+	@{ Html.RenderPartial("LayoutPartials/Head"); }
+	@RenderSection("head", required: false)
+
+	@{
+	Content.PrependDefinition(re =>
+	{
+		re.Tab("Content", "Content");
+		re.PublishedRange().Container("Metadata");
+	});
+	}
+
+	@Content.Register.Meta("Author").Container("Metadata").Display()
+	@Content.Register.Meta("Keywords").Container("Metadata").Display()
+	@Content.Register.Meta("Description").Container("Metadata").Display()
+</head>
+<body>
+	@{ Html.ControlPanel().Render(); }
+
+	<div class="container" id="main-container" style="overflow: hidden;">
+
+		<!-- Header row -->
+		<div class="row noprint" id="toprow">
+			<div class="col-sm-12" style="position: relative;">
+
+				<!-- logo -->
+				<a href="@Content.Traverse.StartPage.Url"><img src="@Url.ThemedContent("~/content/elix.png")" id="logo" alt="Elix" border="0" /></a>
+
+				<!-- top nav-->
+				<ul id="Top_tm_tm" class="topMenu menu">
+					@foreach (var item in Content.Traverse.StartPage.Children) {
+					 <li><a href="@item.Url">@item.Title</a></li> }
+				</ul>
+										
+			</div>
+		</div>
+
+		<!-- Body background stretch -->
+		<div class="row noprint">
+			<div class="col-xs-12 mgright" style="background: #fff; margin-bottom: -99999px; padding-bottom: 99999px;">&nbsp;</div>
+		</div>
+
+		<!-- Print header -->
+		<div class="row print">
+			<div class="col-xs-12"><h1>Elix Technologies</h1><hr /></div>
+		</div>
+
+		<!-- Page area --> 
+		@if (IsSectionDefined("main"))
+		{
+			@RenderSection("main")
+		}
+		else
+		{
+		<!-- Body area -->
+		<div class="row" style="overflow: hidden; position: relative;">
+		<div class="noprint col-sm-3">
+			@{
+				var p = new N2.Web.MenuPart() {			
+					MenuTitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
+					MenuStartFromLevel = 3,
+					MenuShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always,
+					MenuDontLinkTopLevel = false,
+					MenuFlattenTopLevel = true
+				};		
+			}
+			@Html.Raw(new N2.Web.MenuPartRenderer(p).GetHtml())								
+			@{ Html.DroppableZone("BelowNavigation").Render(); }
+		</div>
+			
+		<div class="col-sm-9">
+			<div class="mgright">
+			@RenderBody()
+			</div>
+		</div>
+
+		</div><!-- /row -->
+		}
+
+
+		<!-- Footer -->
+		@{ Html.RenderPartial("LayoutPartials/Footer"); }
+		
+	</div>
+
+	@*	
+	@{ Html.RenderPartial("LayoutPartials/Navbar"); }
+	<div class="container">
+
+	</div>*@
+
+</body>
+</html>

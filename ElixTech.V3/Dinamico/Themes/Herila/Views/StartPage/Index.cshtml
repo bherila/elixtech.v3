@@ -2,9 +2,9 @@
 
 @section main {
     <!-- Body area -->
-    <div class="row-fluid" style="overflow: hidden; position: relative;">
-        <div class="span1 hidden-phone"></div>
-        <div class="span5">
+    <div class="row" style="overflow: hidden; position: relative;">
+        <div class="col-xs-1">&nbsp;</div>
+        <div class="col-xs-5">
             <div class="mgleft">
                 @{ Html.DroppableZone("AboveContent").Render(); }
                 <div class="entry-content">
@@ -13,17 +13,20 @@
                 @{ Html.DroppableZone("BelowContent").Render(); }
             </div>
         </div>
-        <div class="span5">
+        <div class="col-xs-5">
             <div class="mgright">@{ Html.DroppableZone("BesideContent").Render(); }</div>
         </div>
+		<div class="col-xs-1">&nbsp;</div>
     </div>
     
     <!-- Footer -->
-    <div class="row-fluid">
-        <div class="span1 hidden-phone"></div>
-        <div class="span10">
+    <div class="row">
+        <div class="col-xs-1"></div>
+        <div class="col-xs-10">
             <div class="mgleft footer">
-                @{ Html.RenderPartial("LayoutPartials/Footer"); }
+                <footer>
+					@{ Html.RenderPartial("LayoutPartials/Footer"); }
+				</footer>
             </div>
         </div>
     </div>

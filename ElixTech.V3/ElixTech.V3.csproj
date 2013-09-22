@@ -60,7 +60,7 @@
     </Reference>
     <Reference Include="N2, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Library.2.5.6.3\lib\N2.dll</HintPath>
+      <HintPath>..\packages\N2CMS.Library.2.5.6.4\lib\N2.dll</HintPath>
     </Reference>
     <Reference Include="N2.Extensions, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -84,7 +84,7 @@
     </Reference>
     <Reference Include="N2.ReusableParts, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Management.NoZip.2.5.6.3\lib\N2.ReusableParts.dll</HintPath>
+      <HintPath>..\packages\N2CMS.ReusableParts.2.5.6.4\lib\NET40\N2.ReusableParts.dll</HintPath>
     </Reference>
     <Reference Include="NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -340,12 +340,16 @@
     <Content Include="Dinamico\Themes\Default\Scripts\jquery.highlight-3.js" />
     <Content Include="Dinamico\Themes\Default\Scripts\Site.js" />
     <Content Include="Dinamico\Themes\Default\Thumbnail.JPG" />
-    <Content Include="Dinamico\Themes\Herila\Content\Site.css" />
-    <Content Include="Dinamico\Themes\Herila\img\glyphicons-halflings-white.png" />
-    <Content Include="Dinamico\Themes\Herila\img\glyphicons-halflings.png" />
-    <Content Include="Dinamico\Themes\Herila\img\kokopelli.png" />
-    <Content Include="Dinamico\Themes\Herila\js\bootstrap.js" />
-    <Content Include="Dinamico\Themes\Herila\js\bootstrap.min.js" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix.png" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix_homepage.png" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix_homepage.svg" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix_homepage.svg.xml" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix_linux.png" />
+    <Content Include="Dinamico\Themes\Elix\Content\elix_windows.png" />
+    <Content Include="Dinamico\Themes\Elix\Content\gear.png" />
+    <Content Include="Dinamico\Themes\Elix\Content\style.css" />
+    <Content Include="Dinamico\Themes\Elix\Content\webforms.css" />
+    <Content Include="Dinamico\Themes\Herila\Content\kokopelli.png" />
     <Content Include="Dinamico\Themes\Responsive\Content\Site.css" />
     <Content Include="Dinamico\Themes\Responsive\img\glyphicons-halflings-white.png" />
     <Content Include="Dinamico\Themes\Responsive\img\glyphicons-halflings.png" />
@@ -1145,6 +1149,23 @@
     <Content Include="N2\Content\Activity\Notify.ashx" />
     <Content Include="Dinamico\Themes\Herila\Views\ContentParts\ImageAndText.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\Wide.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\Shared\LayoutPartials\Content.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\_ViewStart.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentPages\Container.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentPages\Index.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentPages\News.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentPages\Selection.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentParts\ImageAndText.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentParts\ThreeColumns.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentParts\TwoColumns.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\Shared\_Layout.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\Shared\LayoutPartials\Content.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\Shared\LayoutPartials\Footer.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\Shared\LayoutPartials\Navbar.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\StartPage\Index.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\StartPage\NotFound.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\Web.config" />
+    <Content Include="Dinamico\Themes\Elix\Views\Shared\LayoutPartials\Head.cshtml" />
     <None Include="Scripts\jquery-2.0.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.0.3.js" />
     <Content Include="Scripts\jquery-2.0.3.min.js" />
@@ -1378,40 +1399,6 @@
     <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-004.jpg" />
     <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-005.jpg" />
     <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-010.jpg" />
-    <Content Include="Upload\Images\copter.jpg" />
-    <Content Include="Upload\Images\copter_cube.jpg" />
-    <Content Include="Upload\Images\copter_half.jpg" />
-    <Content Include="Upload\Images\copter_icon.jpg" />
-    <Content Include="Upload\Images\copter_original.jpg" />
-    <Content Include="Upload\Images\copter_third.jpg" />
-    <Content Include="Upload\Images\copter_thumb.jpg" />
-    <Content Include="Upload\Images\copter_wide.jpg" />
-    <Content Include="Upload\Images\fronds.jpg" />
-    <Content Include="Upload\Images\fronds_cube.jpg" />
-    <Content Include="Upload\Images\fronds_half.jpg" />
-    <Content Include="Upload\Images\fronds_icon.jpg" />
-    <Content Include="Upload\Images\fronds_original.jpg" />
-    <Content Include="Upload\Images\fronds_third.jpg" />
-    <Content Include="Upload\Images\fronds_thumb.jpg" />
-    <Content Include="Upload\Images\fronds_wide.jpg" />
-    <Content Include="Upload\Images\jetty.jpg" />
-    <Content Include="Upload\Images\jetty_cube.jpg" />
-    <Content Include="Upload\Images\jetty_half.jpg" />
-    <Content Include="Upload\Images\jetty_icon.jpg" />
-    <Content Include="Upload\Images\jetty_original.jpg" />
-    <Content Include="Upload\Images\jetty_third.jpg" />
-    <Content Include="Upload\Images\jetty_thumb.jpg" />
-    <Content Include="Upload\Images\jetty_wide.jpg" />
-    <Content Include="Upload\Images\reeds.jpg" />
-    <Content Include="Upload\Images\reeds_cube.jpg" />
-    <Content Include="Upload\Images\reeds_half.jpg" />
-    <Content Include="Upload\Images\reeds_icon.jpg" />
-    <Content Include="Upload\Images\reeds_original.jpg" />
-    <Content Include="Upload\Images\reeds_third.jpg" />
-    <Content Include="Upload\Images\reeds_thumb.jpg" />
-    <Content Include="Upload\Images\reeds_wide.jpg" />
-    <Content Include="Upload\n2logo.png" />
-    <Content Include="Upload\n2logo_white.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

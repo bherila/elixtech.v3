@@ -31,7 +31,7 @@
             </tr>
             }
         </table>
-		<p class="noprint" style="margin-top: 1em;">@Content.Display.Image</p>
+		<p class="noprint" style="margin-top: 1em;">@Content.Render.Image("Image", null, "img-responsive")</p>
     </div>
     <div class="col-md-7 col-sm-6">
         @{ Html.DroppableZone("BeforePreparation").Render(); }
