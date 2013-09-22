@@ -1143,6 +1143,8 @@
     <Content Include="N2\Content\LinkTracker\UpdateReferencesTo.ashx" />
     <Content Include="N2\Content\Framed.master" />
     <Content Include="N2\Content\Activity\Notify.ashx" />
+    <Content Include="Dinamico\Themes\Herila\Views\ContentParts\ImageAndText.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Wide.cshtml" />
     <None Include="Scripts\jquery-2.0.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.0.3.js" />
     <Content Include="Scripts\jquery-2.0.3.min.js" />

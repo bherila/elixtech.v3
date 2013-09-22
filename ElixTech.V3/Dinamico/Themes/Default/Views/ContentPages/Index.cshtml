@@ -7,4 +7,6 @@
 	});
 }
 
-@Html.Partial("LayoutPartials/Content")
+@{ Html.DroppableZone("AboveContent").Render(); }
+@{ Html.RenderPartial("LayoutPartials/Content"); }
+@{ Html.DroppableZone("BelowContent").Render(); }

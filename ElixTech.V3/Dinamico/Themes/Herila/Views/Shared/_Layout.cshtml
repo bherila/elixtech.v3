@@ -1,27 +1,27 @@
 ﻿<!DOCTYPE html>
-<!--[if lt IE 7 ]> <html lang="@Content.Current.LanguageCode" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="@Content.Current.LanguageCode" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="@Content.Current.LanguageCode" class="no-js">
+<html lang="@Content.Current.LanguageCode">
 <head>
-	<!--<![endif]-->
 	<link href='http://fonts.googleapis.com/css?family=Signika:400,600,300' rel='stylesheet' type='text/css'>
+	@{ Html.Resources().JQuery(); }
+	@*@{ Html.Resources().StyleSheet(N2.Resources.Register.TwitterBootstrapResponsiveCssPath); }
+	@{ Html.Resources().JavaScript(N2.Resources.Register.TwitterBootstrapJsPath); }
+	@{ Html.Resources().JavaScript("//cdnjs.cloudflare.com/ajax/libs/less.js/1.4.1/less.min.js"); }*@
+	@{ Html.Resources().StyleSheet("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");}
+	@{ Html.Resources().JavaScript("//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js");}
+	@{ Html.Resources().JavaScript(Url.ThemedContent("~/Scripts/site.js")); }
+
 
 	@{ Html.RenderPartial("LayoutPartials/Head"); }
-	@{ Html.Resources().JQuery(); }
-	@{ Html.Resources().StyleSheet(N2.Resources.Register.TwitterBootstrapCssPath); }
-	@{ Html.Resources().JavaScript(N2.Resources.Register.TwitterBootstrapJsPath); }
-	@{ Html.Resources().JavaScript(Url.ThemedContent("~/Scripts/site.js")); }
 	@{
-			Content.PrependDefinition(re =>
-			{
-				re.Tab("Content", "Content");
-				re.PublishedRange().Container("Metadata");
-			});
+		Content.PrependDefinition(re =>
+		{
+			re.Tab("Content", "Content");
+			re.PublishedRange().Container("Metadata");
+		});
 	}
+
 	@RenderSection("head", required: false)
+
 	@{ var green = "#518D3F"; }
 	<style type="text/css">
 		body { padding: 0; margin: 0; background: #eee; }
@@ -34,97 +34,106 @@
 		.mgleft  { padding-left:  1em; }
 		.mgright { padding-right: 1em; }
 		#main-container { padding: 0; }
+		#logo {  z-index: 999999; }
 		#toprow { background-color: @green;  color: white; padding-top: 1em; }
 		#toprow>div { height: 3em; }
 		@@media (max-width: 767px) { #logo { position: absolute; right: 1em; top: 0; } }
 		@@media (min-width: 768px) { #logo { position: absolute; left: 2em; top: 0; } }
 		#toprow * { line-height: 50px !important; }
-		#toprow h1 { font-size: 30px !important; color: #fff; font-weight: 400 !important; }
+		#toprow h1 { font-size: 25px !important; color: #fff; font-weight: 400 !important; }
 		#toprow a:link, #toprow a:visited { color: #fff; } 
+		#topnav {  }
 		#topnav a:link, #topnav a:visited { font-size: 22px; font-weight: 400; }
 		.footer { font-size: 14px; color: #666; } 
+		.print { display: none; }
+	</style>
+	<style type="text/css" media="print">
+		.noprint { display: none; }
+		.print { display: block !important; }
 	</style>
 	<script type="text/javascript">
 		$(document).ready(function () { $("#grn").height($("#toprow").height()); });
 	</script>
 </head>
 <body>
-
-	@{ Html.ControlPanel().Render(); }
+	<div class="noprint">
+		@{     Html.ControlPanel().Render(); }
+	</div>
 	<div class="container" id="main-container" style="overflow: hidden;">
 
-		<div id="grn" style="position: absolute; left: 0; top: 0; width: 100%; background-color: @green; height: 5em; z-index: -1000; padding-top: 1em;"></div>
+		<div id="grn" class="noprint" style="position: absolute; left: 0; top: 0; width: 100%; background-color: @green; height: 5em; z-index: -1000; padding-top: 1em;"></div>
 
 		<!-- Header row -->
-		<div class="row" id="toprow">
-			<div class="span1" style="position: relative;">
+		<div class="row noprint" id="toprow">
+			<div class="col-sm-1" style="position: relative;">
 				<img src="@Url.ThemedContent("~/img/kokopelli.png")" id="logo" />
 			</div>
-			<div class="span2" id="toph1">
+			<div class="col-md-2 col-sm-3" id="toph1">
 				<div class="mgleft">
 					<h1><a href="/">Ben&nbsp;Herila</a></h1>
 				</div>
 			</div>
-			<div class="span9" id="topnav">
+			<div class="col-md-9 col-sm-8" id="topnav">
 				@foreach (var x in Content.Traverse.StartPage.Children.Where(f => f is Dinamico.Models.ContentPage))
-		{
+				{
 					<span>[ <a href="@x.Url">@(x.Title)</a> ] </span>
 				}
 			</div>
 		</div>
 
 		<!-- Body background stretch -->
-		<div class="row">
-			<div class="span1 hidden-phone"></div>
-			<div class="span10" style="background: #fff; margin-bottom: -99999px; padding-bottom: 99999px;"></div>
+		<div class="row noprint">
+			<div class="col-sm-1 hidden-phone">&nbsp;</div>
+			<div class="col-sm-11 col-xs-12" style="background: #fff; margin-bottom: -99999px; padding-bottom: 99999px;">&nbsp;</div>
 		</div>
 
+		<!-- Print header -->
+		<div class="row print">
+			<div class="col-xs-12"><h1>Benjamin W. Herila</h1><hr /></div>
+			<div style="position: absolute; right: 0; top: 0;"><img src="@Url.ThemedContent("~/img/kokopelli.png")" /></div>
+		</div>
+
+
 		<!-- Page area -->
-		@if (IsSectionDefined("page"))
-	{
-			@RenderSection("page", false);
-			@RenderBody();
+		@if (IsSectionDefined("main"))
+		{
+			@RenderSection("main")
 		}
-	else
-	{
+		else
+		{
 			<!-- Body area -->
 			<div class="row" style="overflow: hidden; position: relative;">
-				<div class="span1 hidden-phone"></div>
-				<div class="span2">
-					<div class="mgleft">
-						@{
-							var p = new N2.Web.MenuPart() {			
-								MenuTitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
-								MenuStartFromLevel = 2,
-								MenuShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always								
-							};		
-						}
-						@Html.Raw(new N2.Web.MenuPartRenderer(p).GetHtml())								
-					</div>
+				<div class="noprint col-sm-1">&nbsp;</div>
+				<div class="noprint col-sm-3">
+					@{
+						var p = new N2.Web.MenuPart() {			
+							MenuTitleDisplayMode = N2.Web.MenuPartBase.TitleDisplayOptions.None,
+							MenuStartFromLevel = 2,
+							MenuShowSibilings = N2.Web.MenuPartBase.SibilingDisplayOptions.Always,
+							MenuDontLinkTopLevel = false,
+							MenuFlattenTopLevel = true
+						};		
+					}
+					@Html.Raw(new N2.Web.MenuPartRenderer(p).GetHtml())								
 					@{ Html.DroppableZone("BelowNavigation").Render(); }
 				</div>
-				<div class="span8">
+				<div class="col-sm-8">
 					<div class="mgright">
-						@RenderSection("main", required: false)
 						@RenderBody()
 					</div>
 				</div>
 			</div>
-		
+		}
 			<!-- Footer -->
 			<div class="row">
-				<div class="span1 hidden-phone"></div>
-				<div class="span2">
-					&nbsp;
-				</div>
-				<div class="span8">
+				<div class="col-sm-1"></div>
+				<div class="col-sm-11">
 					<div class="mgright footer">
 						@{ Html.RenderPartial("LayoutPartials/Footer"); }
 					</div>
 				</div>
 			</div>
-		}
-
+		
 	</div>
 
 	@*	
@@ -132,5 +141,6 @@
 	<div class="container">
 
 	</div>*@
+
 </body>
 </html>

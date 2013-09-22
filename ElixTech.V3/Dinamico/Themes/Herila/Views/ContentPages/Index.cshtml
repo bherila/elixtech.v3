@@ -1,6 +1,4 @@
 ﻿@model Dinamico.Models.ContentPage
 @{ Html.DroppableZone("AboveContent").Render(); }
-<div class="entry-content">
-	@Content.Display.Text
-</div>
+@{ Html.RenderPartial("LayoutPartials/Content"); }
 @{ Html.DroppableZone("BelowContent").Render(); }

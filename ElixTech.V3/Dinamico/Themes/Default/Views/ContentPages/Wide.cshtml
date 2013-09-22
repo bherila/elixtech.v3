@@ -1,0 +1,23 @@
+﻿@model Dinamico.Models.ContentPage
+
+@{
+	Content.Define(re => 
+	{
+		re.Title = "Wide page";
+	});
+}
+
+@section main 
+{
+	<!-- Body area -->
+	<div class="row" style="overflow: hidden; position: relative;">
+		<div class="noprint col-sm-1">&nbsp;</div>
+		<div class="col-sm-11">
+			<div class="mgright">
+				@{ Html.DroppableZone("AboveContent").Render(); }
+				@{ Html.RenderPartial("LayoutPartials/Content"); }
+				@{ Html.DroppableZone("BelowContent").Render(); }
+			</div>
+		</div>
+	</div>
+}

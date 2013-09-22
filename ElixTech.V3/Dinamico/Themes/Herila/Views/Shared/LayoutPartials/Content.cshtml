@@ -1,0 +1,11 @@
+﻿@{
+	Content.PrependDefinition(re => 
+	{
+		re.Container("Metadata", e =>
+		{
+			e.Name().Title("Path Segment");
+		});
+	});
+}
+
+@Content.Display.Text
