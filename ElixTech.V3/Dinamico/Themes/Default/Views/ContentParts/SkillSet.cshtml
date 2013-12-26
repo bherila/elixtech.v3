@@ -1,0 +1,25 @@
+﻿@model Dinamico.Models.ContentPart
+
+@{ Content.Define(re =>
+	   {
+		   re.Title = "Skill Set";
+		   re.IconUrl = "{IconsUrl}/star.png";
+		   re.Title();
+		   re.Text("Skills").Configure(t => { t.TextMode = System.Web.UI.WebControls.TextBoxMode.MultiLine; t.Columns = 30; t.Rows = 8; });
+	   });
+
+   var p = Model.GetDetail("Skills", "").Split(Environment.NewLine.ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
+	.Where(item => !String.IsNullOrWhiteSpace(item))
+	.ToArray();
+}
+
+<table class="rating-table">
+	@for (int i = 0; i < p.Length; ++i)
+	{
+		var q = p[i].Split(new [] { ' ', '\t'}, 2);
+	 
+		if (q.Length == 2) { 
+			<tr><td>@q[0]</td><td class="rating"><div class="star"></div></td></tr>
+		}
+	}
+</table>

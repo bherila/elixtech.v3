@@ -1,8 +1,10 @@
 ﻿<!DOCTYPE html>
 <html lang="@Content.Current.LanguageCode">
 <head>
+	@if (false) {<title></title> } @*  Make the syntax checker happy  *@
 	<link href='http://fonts.googleapis.com/css?family=Signika:400,600,300' rel='stylesheet' type='text/css'>
 	@{ Html.Resources().JQuery(); }
+
 	@*@{ Html.Resources().StyleSheet(N2.Resources.Register.TwitterBootstrapResponsiveCssPath); }
 	@{ Html.Resources().JavaScript(N2.Resources.Register.TwitterBootstrapJsPath); }
 	@{ Html.Resources().JavaScript("//cdnjs.cloudflare.com/ajax/libs/less.js/1.4.1/less.min.js"); }*@
@@ -24,7 +26,7 @@
 
 	@{ var green = "#518D3F"; }
 	<style type="text/css">
-		body { padding: 0; margin: 0; background: #eee; }
+		html,body { padding: 0; margin: 0; background: #eee !important; }
 		body,html,p {  font-family: Signika; color: #333; font-size: 14px; font-weight: 300; }
 		h1,h2,h3,h4,h5 { font-family: Signika; font-weight: 400; color: @green; }
 		h1 { font-size: 26px; }
@@ -53,8 +55,28 @@
 			font-weight: bold;
 			text-transform: uppercase;
 		}
+
+		
+		#highlights ul { list-style-type: square; padding: 0 0 0 1.5em; color: #666; }
+		#highlights ul li { margin: 0.5em 0;  }
+
+		.contact { margin-bottom: 1em; }
+		.contact td {  padding: 0; margin: 0; }
+		.contact td:first-child { font-weight: bold }
+
+		.rating-table { width: 100%; }
+		.rating { width: 80px; }
+		.star { background: url(/N2/Resources/Icons/star.png); height: 16px; overflow: hidden; }
+		.x { width: 16px; }
+		.xx { width: 32px; }
+		.xxx { width: 48px; }
+		.xxxx { width: 64px; }
+		.xxxxx { width: 80px; }
+
 	</style>
 	<style type="text/css" media="print">
+		body, html { font-size: 90%; }
+		h1 { font-size: 20pt; }
 		.noprint { display: none; }
 		.print { display: block !important; }
 	</style>
@@ -64,7 +86,7 @@
 </head>
 <body>
 	<div class="noprint">
-		@{     Html.ControlPanel().Render(); }
+		@{ Html.ControlPanel().Render(); }
 	</div>
 	<div class="container" id="main-container" style="overflow: hidden;">
 
@@ -96,7 +118,7 @@
 
 		<!-- Print header -->
 		<div class="row print">
-			<div class="col-xs-12"><h1>Benjamin W. Herila</h1><hr /></div>
+			<div class="col-xs-12"><h1 style="margin: 0; padding: 0;">Benjamin W. Herila</h1></div>
 			<div style="position: absolute; right: 0; top: 0;"><img src="@Url.ThemedContent("~/img/kokopelli.png")" /></div>
 		</div>
 

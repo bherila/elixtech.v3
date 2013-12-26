@@ -1,0 +1,21 @@
+﻿@model Dinamico.Models.ContentPage
+
+@{
+	Content.Define(re =>
+	{
+		re.Title = "Two Column page";
+	});
+}
+
+@{ Html.DroppableZone("AboveContent").Render(); }
+
+<div class="row">
+	<div class="col-md-6">
+		@{ Html.RenderPartial("LayoutPartials/Content"); }
+	</div>
+	<div class="col-md-6">
+		@{ Html.DroppableZone("BesideContent").Render(); }
+	</div>
+</div>
+
+@{ Html.DroppableZone("BelowContent").Render(); }

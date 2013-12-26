@@ -54,9 +54,8 @@
       <HintPath>..\packages\Lucene.Net.3.0.3\lib\NET40\Lucene.Net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\MySql.Data.6.6.5\lib\net40\MySql.Data.dll</HintPath>
+    <Reference Include="MySql.Data">
+      <HintPath>..\packages\MySql.Data.6.7.4\lib\net40\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="N2, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -186,117 +185,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="apple-touch-icon.png" />
-    <Content Include="App_Data\ContentItemsXml\c--LanguageIntersection-Index-page=11-00011.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--LanguageIntersection-Index-page=2-00002.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--LanguageIntersection-Index-page=5-00005.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--LanguageIntersection-Index-page=8-00008.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--N2-Myself-Root.aspx-page=1-00001.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--N2-Myself-Root.aspx-page=10-00010.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--N2-Myself-Root.aspx-page=4-00004.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--N2-Myself-Root.aspx-page=7-00007.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--StartPage-Index-page=12-00012.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--StartPage-Index-page=3-00003.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--StartPage-Index-page=6-00006.xml" />
-    <Content Include="App_Data\ContentItemsXml\c--StartPage-Index-page=9-00009.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=10-00010.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=100-00100.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=101-00101.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=102-00102.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=103-00103.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=104-00104.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=106-00106.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=107-00107.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=108-00108.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=109-00109.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=11-00011.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=110-00110.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=111-00111.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=112-00112.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=114-00114.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=115-00115.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=116-00116.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=117-00117.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=118-00118.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=119-00119.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=12-00012.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=120-00120.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=121-00121.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=122-00122.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=123-00123.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=131-00131.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=132-00132.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=133-00133.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=134-00134.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=135-00135.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=136-00136.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=138-00138.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=139-00139.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=140-00140.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=141-00141.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=142-00142.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=143-00143.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=144-00144.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=154-00154.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=20-00020.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=21-00021.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=23-00023.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=24-00024.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=25-00025.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=26-00026.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=27-00027.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=28-00028.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=29-00029.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=30-00030.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=31-00031.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=32-00032.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=33-00033.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=4-00004.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=42-00042.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=43-00043.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=45-00045.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=46-00046.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=47-00047.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=48-00048.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=49-00049.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=5-00005.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=50-00050.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=59-00059.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=6-00006.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=60-00060.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=62-00062.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=63-00063.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=64-00064.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=65-00065.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=66-00066.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=67-00067.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=69-00069.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=7-00007.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=70-00070.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=71-00071.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=72-00072.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=73-00073.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=74-00074.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=8-00008.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=83-00083.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=84-00084.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=85-00085.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=86-00086.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=87-00087.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=88-00088.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=89-00089.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=9-00009.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=90-00090.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=91-00091.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-ContentPagesIndexpage=99-00099.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-LanguageIntersectionIndexpage=2-00002.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-N2ContentTrashDefault.aspxpage=153-00153.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-N2MyselfRoot.aspxpage=1-00001.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=113-00113.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=3-00003.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=34-00034.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=51-00051.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=68-00068.xml" />
-    <Content Include="App_Data\ContentItemsXml\c-StartPageIndexpage=82-00082.xml" />
     <Content Include="App_Data\SampleContent.n2.xml.gz.txt" />
     <Content Include="Dinamico\N2\readme.txt" />
     <Content Include="Dinamico\readme.txt" />
@@ -316,18 +204,6 @@
     <Content Include="Dinamico\Themes\Dark\Content\Mood.css" />
     <Content Include="Dinamico\Themes\Dark\Content\Site.css" />
     <Content Include="Dinamico\Themes\Dark\Thumbnail.JPG" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Boilerfoot.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Boilerhead.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Elements.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Features.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\IE.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Layout.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Mood.css" />
-    <Content Include="Dinamico\Themes\Default.x\Content\Site.css" />
-    <Content Include="Dinamico\Themes\Default.x\Scripts\jquery.anythingslider.js" />
-    <Content Include="Dinamico\Themes\Default.x\Scripts\jquery.highlight-3.js" />
-    <Content Include="Dinamico\Themes\Default.x\Scripts\Site.js" />
-    <Content Include="Dinamico\Themes\Default.x\Thumbnail.JPG" />
     <Content Include="Dinamico\Themes\Default\Content\Boilerfoot.css" />
     <Content Include="Dinamico\Themes\Default\Content\Boilerhead.css" />
     <Content Include="Dinamico\Themes\Default\Content\Elements.css" />
@@ -350,6 +226,7 @@
     <Content Include="Dinamico\Themes\Elix\Content\style.css" />
     <Content Include="Dinamico\Themes\Elix\Content\webforms.css" />
     <Content Include="Dinamico\Themes\Herila\Content\kokopelli.png" />
+    <Content Include="Dinamico\Themes\Herila\Content\Site.css" />
     <Content Include="Dinamico\Themes\Responsive\Content\Site.css" />
     <Content Include="Dinamico\Themes\Responsive\img\glyphicons-halflings-white.png" />
     <Content Include="Dinamico\Themes\Responsive\img\glyphicons-halflings.png" />
@@ -1166,239 +1043,27 @@
     <Content Include="Dinamico\Themes\Elix\Views\StartPage\NotFound.cshtml" />
     <Content Include="Dinamico\Themes\Elix\Views\Web.config" />
     <Content Include="Dinamico\Themes\Elix\Views\Shared\LayoutPartials\Head.cshtml" />
+    <Content Include="Dinamico\Themes\Elix\Views\ContentPages\TwoColumn.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\TwoColumn.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentParts\ContactInfo.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\ContentPages\TwoColumn.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentParts\BootstrapColumns.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentParts\SkillSet.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\Shared\LayoutPartials\Head.cshtml" />
+    <None Include="Properties\PublishProfiles\bherila.net - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\d.pubxml" />
     <None Include="Scripts\jquery-2.0.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.0.3.js" />
     <Content Include="Scripts\jquery-2.0.3.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-001.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-002.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-003.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-004.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-005.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-006.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-007.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-008.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-009.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-010.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-011.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-012.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-013.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-014.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-015.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-016.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-017.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-018.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-019.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-020.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-021.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-022.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-023.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-024.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-025.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-026.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-027.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-028.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-029.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-030.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-031.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-032.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-033.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-034.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-035.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-036.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-037.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-038.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-039.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-040.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-041.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-042.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-043.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-044.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-045.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-046.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-047.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-048.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-049.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-050.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-051.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-052.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-053.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-054.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-055.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-056.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-057.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-058.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-059.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-060.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-061.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-062.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-063.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-064.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-065.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-066.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-067.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-068.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-069.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-070.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-071.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-072.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-073.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-074.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-075.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-076.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-077.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-078.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-079.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-080.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-081.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-082.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-083.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-084.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-085.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-086.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-087.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-088.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-089.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-090.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-091.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-092.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-093.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-097.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-098.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-099.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-100.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-101.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-102.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-103.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-104.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-105.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-106.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-107.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-108.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-109.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-110.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-111.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-112.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-113.jpg" />
-    <Content Include="Upload\Cooking\headers\2012-Cooking-114.jpg" />
-    <Content Include="Upload\Cooking\headers\20121117-PreThanksgivingPotluck-004.jpg" />
-    <Content Include="Upload\Cooking\headers\20121117-PreThanksgivingPotluck-005.jpg" />
-    <Content Include="Upload\Cooking\headers\20121117-PreThanksgivingPotluck-010.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-001.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-002.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-003.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-004.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-005.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-006.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-007.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-008.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-009.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-010.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-011.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-012.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-013.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-014.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-015.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-016.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-017.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-018.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-019.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-020.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-021.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-022.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-023.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-024.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-025.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-026.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-027.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-028.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-029.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-030.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-031.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-032.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-033.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-034.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-035.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-036.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-037.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-038.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-039.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-040.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-041.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-042.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-043.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-044.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-045.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-046.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-047.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-048.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-049.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-050.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-051.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-052.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-053.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-054.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-055.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-056.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-057.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-058.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-059.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-060.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-061.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-062.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-063.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-064.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-065.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-066.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-067.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-068.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-069.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-070.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-071.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-072.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-073.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-074.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-075.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-076.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-077.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-078.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-079.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-080.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-081.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-082.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-083.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-084.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-085.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-086.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-087.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-088.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-089.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-090.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-091.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-092.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-093.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-097.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-098.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-099.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-100.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-101.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-102.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-103.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-104.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-105.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-106.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-107.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-108.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-109.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-110.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-111.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-112.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-113.jpg" />
-    <Content Include="Upload\Cooking\squares\2012-Cooking-114.jpg" />
-    <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-004.jpg" />
-    <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-005.jpg" />
-    <Content Include="Upload\Cooking\squares\20121117-PreThanksgivingPotluck-010.jpg" />
+    <Content Include="Scripts\metrojs\images\1pixel.gif" />
+    <Content Include="Scripts\metrojs\images\metroIcons.jpg" />
+    <Content Include="Scripts\metrojs\images\metroIcons_light.jpg" />
+    <Content Include="Scripts\metrojs\MetroJs.css" />
+    <Content Include="Scripts\metrojs\MetroJs.js" />
+    <Content Include="Scripts\metrojs\MetroJs.min.css" />
+    <Content Include="Scripts\metrojs\MetroJs.min.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -1412,6 +1077,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Upload\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -1436,9 +1102,6 @@
     <Content Include="Dinamico\Themes\Herila\Views\ContentPages\Selection.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Dinamico\Themes\Herila\Views\ContentParts\TwoColumns.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Dinamico\Themes\Herila\Views\StartPage\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -1448,81 +1111,6 @@
     <Content Include="Dinamico\Themes\Herila\Views\Shared\LayoutPartials\Footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Dinamico\Themes\Default.x\Views\Web.config" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Test\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\StartPage\NotFound.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\StartPage\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Slideshow\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\TOC.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\SubsequentSiblings.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\StartPage.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Siblings.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Search.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Published.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\PreviousSibling.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\PrecedingSiblings.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Parent.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\NextSibling.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Google+1.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\FirstChild.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\FacebookLike.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Detail.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Children.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Changes.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Breadcrumb.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\TokenTemplates\Author.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\Partials\ContentLink.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Translations.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\TopNavigation.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Top.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\SubNavigation.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\SiteMap.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Search.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\PreContent.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\PostContent.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Logotype.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\LogOn.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Header.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Head.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Footer.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\Content.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\LayoutPartials\BlogContent.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\Error.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Shared\_Layout.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Membership\Register.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Membership\LogOn.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Membership\ChangePasswordSuccess.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\Membership\ChangePassword.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\LanguageIntersection\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\FreeForm\Submitted.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\FreeForm\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\FreeForm\Form.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\YouTube.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\TwoColumns.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\ThreeColumns.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Teaser.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Slider.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Selection.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Partials\GMapCoordinate.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Partials\GMapAddress.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\LoginForm.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Listing.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\ImageFloat.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\ImageAndText.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\Hyperlink.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\GMap.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\GDocViewer.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\FileList.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\DelimitedDataDisplay.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\ContentTile.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentParts\ContentSlider.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentPages\Selection.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentPages\Redirect.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentPages\News.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentPages\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\ContentPages\Container.cshtml" />
-    <Content Include="Dinamico\Themes\Default.x\Views\_ViewStart.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\Recipe.cshtml" />
   </ItemGroup>
   <ItemGroup>

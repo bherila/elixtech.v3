@@ -26,18 +26,18 @@
 @if (Content.Has.ImageFirst && Content.Data.ImageFirst)
 {
 	<div class="imageAndText">
-		<div class="row-fluid">
-			<div class="span4"><hr /><img class="@imgCssClass" alt="@Content.Data.Title" src="@Content.Data.Image" />@Content.Data.TextAfterImage</div>
-			<div class="span8">@Content.Display.Description</div>
+		<div class="row">
+			<div class="col-sm-4"><hr /><img class="@imgCssClass" alt="@Content.Data.Title" src="@Content.Data.Image" />@Content.Data.TextAfterImage</div>
+			<div class="col-sm-8">@Content.Display.Description</div>
 		</div>
 	</div>
 }
 else
 {
 	<div class="imageAndText">
-		<div class="row-fluid">
-			<div class="span8">@Content.Display.Description</div>
-			<div class="span4"><hr /><img class="@imgCssClass" alt="@Content.Data.Title" src="@Content.Data.Image" />@Content.Data.TextAfterImage</div>
+		<div class="row">
+			<div class="col-sm-8">@Content.Display.Description</div>
+			<div class="col-sm-4"><hr /><img class="@imgCssClass" alt="@Content.Data.Title" src="@Content.Data.Image" />@Content.Data.TextAfterImage</div>
 		</div>
 	</div>
 }

@@ -27,11 +27,11 @@
 			<div class="col-sm-12" style="position: relative;">
 
 				<!-- logo -->
-				<a href="@Content.Traverse.StartPage.Url"><img src="@Url.ThemedContent("~/content/elix.png")" id="logo" alt="Elix" border="0" /></a>
+				<a href="@Content.Traverse.StartPage.Url"><img src="@Url.ThemedContent("~/content/elix.png")" id="logo" alt="Elix" style="border: 0 none;" /></a>
 
 				<!-- top nav-->
 				<ul id="Top_tm_tm" class="topMenu menu">
-					@foreach (var item in Content.Traverse.StartPage.Children) {
+					@foreach (var item in Content.Traverse.StartPage.Children.Where(f => f.IsPage)) {
 					 <li><a href="@item.Url">@item.Title</a></li> }
 				</ul>
 										
