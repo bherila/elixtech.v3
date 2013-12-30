@@ -1,0 +1,12 @@
+﻿@model Dinamico.Models.ContentPage
+
+@{
+	Content.Define(re => 
+	{
+		re.Title = "Page with gutter";
+	});
+}
+
+@{ Html.DroppableZone("AboveContent").Render(); }
+@{ Html.RenderPartial("LayoutPartials/Content"); }
+@{ Html.DroppableZone("BelowContent").Render(); }

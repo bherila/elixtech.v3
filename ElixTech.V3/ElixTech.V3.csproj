@@ -1050,6 +1050,11 @@
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\BootstrapColumns.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\SkillSet.cshtml" />
     <Content Include="Dinamico\Themes\Herila\Views\Shared\LayoutPartials\Head.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\ContentParts\TwoColumns.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Gutter.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\ContentPages\Gutter.cshtml" />
+    <Content Include="Dinamico\Themes\Herila\Views\ContentParts\ImageFloat.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\RecipeBlock.cshtml" />
     <None Include="Properties\PublishProfiles\bherila.net - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\d.pubxml" />
     <None Include="Scripts\jquery-2.0.3.intellisense.js" />

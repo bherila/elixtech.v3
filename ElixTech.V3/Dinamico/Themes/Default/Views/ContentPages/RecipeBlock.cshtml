@@ -1,0 +1,48 @@
+﻿@using Dinamico.Models
+@using N2.Collections
+@model Dinamico.Models.ContentPage
+
+@{
+	Content.Define(re =>
+	{
+		re.Title = "Recipe Container";
+	});
+
+	var allPages = Content.Current.Page.GetChildren().Where(p => p.IsPage).Select(p => (ContentPage) p).ToList();
+	var pagesWithImages = allPages.Where(p => !String.IsNullOrEmpty(p.Image));
+	var pagesWithoutImages = allPages.Where(p => String.IsNullOrEmpty(p.Image));
+}
+
+@{ Html.DroppableZone("AboveContent").Render(); }
+
+<p><img class="img-responsive" src="@Content.Data.Image" /></p>
+
+@{ Html.RenderPartial("LayoutPartials/Content"); }
+@{ Html.DroppableZone("Middle").Render(); }
+<div class="row">
+	@foreach (var x in pagesWithImages)
+	{
+		<div class="col-sm-4 col-md-3">
+			<div class="thumbnail">
+				<a href="@x.Url"><img class="img-responsive" src="@x.Image" alt="@x.Title" style="border: 0px none;"></a>
+				<div class="caption">
+					<a href="@x.Url"><h3>@x.Title</h3></a>
+				</div>
+			</div>
+		</div>
+	}
+	</div>
+<h2>Not yet photographed, but equally delicious!</h2>
+<div class="row">
+	@foreach (var x in pagesWithoutImages)
+	{
+		<div class="col-sm-4 col-md-3">
+			<div class="thumbnail">
+				<div class="caption">
+					<a href="@x.Url"><h3>@x.Title</h3></a>
+				</div>
+			</div>
+		</div>
+	}
+</div>
+@{ Html.DroppableZone("BelowContent").Render(); }
