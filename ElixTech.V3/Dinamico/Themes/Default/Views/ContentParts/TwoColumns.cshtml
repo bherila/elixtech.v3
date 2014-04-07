@@ -1,4 +1,5 @@
 ﻿@model Dinamico.Models.ContentPart
+
 @{ Content.Define(re =>
 	   {
 		   re.Title = "2 Columns";
@@ -6,15 +7,15 @@
 		   re.CheckBox("Separator", "Show separator");
 	   });
 }
-<section id="fluidGridSystem">
-	<div class="container" style="padding: 0;">
-		<div class="row show-grid columns twocolumns clearfix @((bool)(Content.Data.Separator ?? false) ? "separator" : "")">
-			<div class="column column1 col-md-6">
-				@{ Html.DroppableZone("Left").Render(); }
-			</div>
-			<div class="column column2 col-md-6">
-				@{ Html.DroppableZone("Right").Render(); }
-			</div>
-		</div>
+@if (Content.Data.Separator ?? false)
+{
+	<hr />
+}
+<div class="columns twocolumns row">
+	<div class="column span col-lg-6">
+		@{ Html.DroppableZone("Left").Render(); }
 	</div>
-</section>
+	<div class="column column2 col-lg-6">
+		@{ Html.DroppableZone("Right").Render(); }
+	</div>
+</div>
