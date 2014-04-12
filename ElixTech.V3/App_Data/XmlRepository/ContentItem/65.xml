@@ -1,0 +1,29 @@
+<item id="65" name="janet-memorial-fruit-salad" parent="63" title="Janet Memorial Fruit Salad" zoneName="" templateKey="Index" state="16" created="09/22/2013 07:22:09" updated="04/12/2014 06:13:16" published="09/22/2013 07:21:44" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=65" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/63/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;Janet Memorial Fruit Salad&lt;/h1&gt;
+
+&lt;div&gt;
+&lt;p&gt;Anyone who has been to a CS15 TA party knows about Janet&amp;#39;s famous fruit salad. It&amp;#39;s a staple at the summer BBQ! There is always a brand-new TA scrambling at the last minute to find the recipe (rumored to be stored somewhere in the&amp;nbsp;&lt;em&gt;course&lt;/em&gt;&amp;nbsp;directory), and there is now a backup copy here for all to enjoy. There&amp;#39;s really no secret; just&amp;nbsp;&lt;strong&gt;lots of fruit&lt;/strong&gt;!&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;~8&amp;nbsp;&lt;strong&gt;tangerines&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;apples&lt;/strong&gt;&amp;nbsp;(greeen)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strawberries&lt;/strong&gt;,&amp;nbsp;LOTS :) -&amp;gt;&amp;nbsp;estimate at least 2 strawberries per person,&amp;nbsp;3-4 packages&lt;/p&gt;
+
+&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;mangos&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;peaches&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;nectarines&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pineapples&lt;/strong&gt;,&amp;nbsp;fresh chopped, about 2 pineapples worth&amp;nbsp;&lt;br /&gt;
+(if you can find fresh, refrigerator kind)&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;~10&amp;nbsp;&lt;strong&gt;kiwi&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;watermelons&lt;/strong&gt;, 2 medium&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;canteloupes&lt;/strong&gt;, about 3&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+&lt;strong&gt;grapes&lt;/strong&gt;: 2 purple, 1 green&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

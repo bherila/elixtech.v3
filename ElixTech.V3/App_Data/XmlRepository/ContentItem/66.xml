@@ -1,0 +1,15 @@
+<item id="66" name="bread-pudding" parent="63" title="Bread Pudding" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 07:24:40" updated="04/12/2014 06:13:16" published="09/22/2013 07:22:25" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=66" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/63/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6 C.,dried-out bread
+4 lg.,eggs (room temp.)
+1/2 C.,light brown sugar
+3/4 tsp.,vanilla
+1/2 tsp.,ground cinnamon
+pinch,nutmeg
+pinch,salt
+4 C.,whole milk
+1/4 C.,raisins or cranberries
+,unsalted butter for greasing]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Lightly grease an 8in. baking dish. Spread the bread cubes in it.&lt;/p&gt;
+
+&lt;p&gt;In a bowl whisk together eggs,brown sugar, vanilla, cinnamon, nutmeg, salt until well blended. Pour milk and whisk until combined. Pour over bread cubes. Let sit, pressing down on bread occasionally until bread is evenly soaked about 20 minutes.&lt;/p&gt;
+
+&lt;p&gt;Preheat oven to 350 degrees. Have ready a large shollow roasting pan. Scatter cranberries evenly over the surface of the soaked bread and press to submerge fruit. Set baking&amp;nbsp; dish in the roasting pan. Add very hot tap water to the roasting pan to come up halfway up the sides of the baking dish. Bake until a knife inserted in the center comes out clean. 45-55 minutes. Serve warm with berry coulis or butterscotch sauce.&amp;nbsp;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-058.jpg]]></property></properties></item>

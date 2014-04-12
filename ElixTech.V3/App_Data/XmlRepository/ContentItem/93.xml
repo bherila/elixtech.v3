@@ -1,0 +1,10 @@
+<item id="93" name="breaded-eggplant" parent="84" title="Breaded Eggplant" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 07:49:32" updated="04/12/2014 06:13:26" published="12/28/2013 07:49:18" expires="" sortOrder="50" url="/ContentPages/Index?n2page=93" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/1/4/5/27/84/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4-6]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2,eggs
+1 T.,water
+1 T.,oil
+1 medium,eggplant]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Beat the egg, water and oil. Dip the eggplant to coat and then toss in breadcrumbs. Drizzle or spray with olive oil.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Fry on an electric grill (panini press) until tender. Serve with honey drizzled over top.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Note:&amp;nbsp;&lt;/strong&gt;The number of servings depends on the size of the eggplant. Serving size is about 3 or&amp;nbsp;4&amp;nbsp;slices per person.&amp;nbsp;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/eggplant-parm.9453.jpg]]></property></properties></item>

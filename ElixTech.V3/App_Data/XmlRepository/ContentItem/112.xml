@@ -1,0 +1,8 @@
+<item id="112" name="design-dev" parent="111" title="Design &amp; Dev" zoneName="" templateKey="Index" state="16" created="09/22/2013 19:29:05" updated="04/12/2014 06:13:38" published="09/22/2013 19:28:54" expires="" sortOrder="-20" url="/ContentPages/Index?n2page=112" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/111/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;h2&gt;We staff&amp;nbsp;&lt;strong&gt;in-house web designers&lt;/strong&gt;, professionally and academically certified&amp;nbsp;&lt;strong&gt;software engineers&lt;/strong&gt;, and retain&amp;nbsp;&lt;strong&gt;world-class design firms&lt;/strong&gt;&amp;nbsp;to ensure end-to-end success for projects of any size and scope. Whether it&amp;#39;s a full-blown website design, custom software application, or an annual report for web and print, we&amp;#39;ve got you covered.&lt;/h2&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

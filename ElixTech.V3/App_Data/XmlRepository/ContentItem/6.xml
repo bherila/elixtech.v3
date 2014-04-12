@@ -1,0 +1,11 @@
+<item id="6" name="photos" parent="5" title="Photos" zoneName="" templateKey="Index" state="16" created="10/06/2012 23:56:52" updated="04/12/2014 06:13:08" published="10/06/2012 23:53:20" expires="" sortOrder="-20" url="/ContentPages/Index?n2page=6" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Family photos are available on SkyDrive.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;https://skydrive.live.com/#cid=6FDDB3326C64CE5B&amp;amp;id=6FDDB3326C64CE5B%2136542&quot;&gt;Access Photos Online &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;You need to sign in with your &lt;strong&gt;@herila.net&lt;/strong&gt; or &lt;strong&gt;@nergerfamily.com&lt;/strong&gt; account in order to access and view the photos.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;To upload photos, please upload it to the Photo Staging folder in&amp;nbsp;&lt;strong&gt;your own&lt;/strong&gt;&amp;nbsp;SkyDrive (and then e-mail me so I can pick them up and integrate them into the overall collection)&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">93</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[https://skydrive.live.com/#cid=6FDDB3326C64CE5B&amp;amp;id=6FDDB3326C64CE5B%2136542]]></value></detail></collection></detailCollections><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

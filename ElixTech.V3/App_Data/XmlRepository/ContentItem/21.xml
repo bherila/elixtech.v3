@@ -1,0 +1,31 @@
+<item id="21" name="the-walsh-company" parent="10" title="The Walsh Company" zoneName="" templateKey="TwoColumn" state="16" created="09/22/2013 05:45:44" updated="04/12/2014 06:13:09" published="09/22/2013 05:44:09" expires="" sortOrder="10" url="/ContentPages/Index?n2page=21" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="4" ancestralTrail="/1/4/5/10/" alteredPermissions="0" childState="128"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;The Walsh Company&lt;/h1&gt;
+
+&lt;div&gt;
+&lt;p&gt;I provided a complete web solution for&amp;nbsp;&lt;a href=&quot;http://www.walshcompany.com/&quot;&gt;The Walsh Company&lt;/a&gt;. I designed and built a custom content management system that enables non-technical employees to easily update various sections of the web site. &amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;WalshCompany.com&lt;/h2&gt;
+
+&lt;p&gt;The Walsh Company&amp;#39;s main home page,&amp;nbsp;&lt;a href=&quot;http://www.walshcompany.com/&quot;&gt;www.walshcompany.com&lt;/a&gt;, features information about the company, featured projects that the company has worked on, an employee directory, and more. The website is powered by a custom content management system called Elix CMS, built from the ground up in C# and ASP.NET, and features a powerful backend editor that enables non-technical users to edit the site with ease. Some features of this CMS include:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;Structured editing of web content, customized by content type (e.g. Project, News Article, Contact, etc.)&lt;/li&gt;
+	&lt;li&gt;Integrated image upload and image editing functionality including rotation and cropping.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Real time indexing of content for easy search and filter by end users (see Projects)&lt;/li&gt;
+	&lt;li&gt;Administration area with role-based and IP address based access control&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: The Walsh Company LLC was acquired by Avison Young Inc. and as of September 20, 2013, the site is no longer available. I apologize for any inconvenience.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;WalshHospitality.com&lt;/h2&gt;
+
+&lt;p&gt;The Walsh Company was so thrilled with the result that we tweaked and deployed a second production set-up for their sister company,&lt;a href=&quot;http://www.walshhospitality.com/&quot;&gt;Walsh Hospitality Services&lt;/a&gt;. The Walsh Hospitality Services web site uses the same great Elix CMS system that WalshCompany.com uses.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: Walsh Hospitality Advisors was acquired by Avison Young&amp;nbsp;Inc. and as of September 20, 2013, the site is no longer available. I apologize for any inconvenience.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;IT Consulting&lt;/h2&gt;
+
+&lt;p&gt;I have also provided a number of on-site and consulting services to The Walsh Company. In August 2011, I helped coordinate a companywide upgrade of more than 50 PCs to Windows 7 and Office 2010. We also replaced an approximately 10-year old server with new hardware and upgraded the existing deployment of Microsoft Exchange Server 2003 to Exchange 2010. Since then, The Walsh Company has reported increased productivity and employee satisfaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.elixtech.com/computer-services/case-studies.aspx&quot;&gt;Read more at Elix Technologies Case Studies.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">8</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[67b3606c-2678-46c4-b3ec-eab63da6f343]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">93</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.walshcompany.com/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">390</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.walshcompany.com/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">1650</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.walshhospitality.com/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">2532</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.elixtech.com/computer-services/case-studies.aspx]]></value></detail></collection></detailCollections><children><child id="22" name="22" versionIndex="1" versionKey="2499d69d-2833-441a-a037-188260692dd2" /></children><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

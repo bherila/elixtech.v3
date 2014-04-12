@@ -1,0 +1,8 @@
+<item id="56" name="chicken-teryaki" parent="46" title="Chicken Teryaki" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 05:05:32" updated="04/12/2014 06:13:13" published="03/05/2013 05:02:35" expires="" sortOrder="60" url="/ContentPages/Index?n2page=56" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1-2]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[3 T ,soy sauce
+2 T ,brown sugar
+1 T ,corn oil
+1/2 t ,garlic powder
+1/2 t ,ground ginger
+1/8 t ,black pepper
+4 oz.,boneless chicken]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Multiply the ingredients by a large constant. Optionally, cut the chicken into cubes.&lt;/p&gt;
+&lt;p&gt;Submerge the chicken in the marinade and soak in the refrigerator for 1-2 hours (up to 24 hours). Grill or pan sear in a heavy cast iron skillet. Serve over freshly cooked rice.&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

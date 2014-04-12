@@ -1,0 +1,13 @@
+<item id="19" name="" parent="12" title="" zoneName="BelowContent" templateKey="Index" state="16" created="09/22/2013 05:41:39" updated="04/12/2014 06:13:08" published="09/22/2013 05:41:44" expires="" sortOrder="0" url="/ContentPages/Index?n2page=12&amp;n2item=19" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="3" ancestralTrail="/1/4/5/10/12/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Downloads&lt;/h2&gt;
+
+&lt;p&gt;Because the ray tracing and photon mapping projects are still assignments at Brown, the source code is not available for download from this web site. Source code may be made available to qualified academic institutions by e-mailing&amp;nbsp;cs123headtas@cs.brown.edu.&lt;/p&gt;
+
+&lt;p&gt;Compiled statically-linked binaries may be downloaded below:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;Ray, compiled for Windows x86, with sample scenes&lt;/li&gt;
+	&lt;li&gt;Photon Mapping, compiled for Windows x86, with sample scenes&lt;/li&gt;
+	&lt;li&gt;Path Tracing, compiled for Windows x86&lt;/li&gt;
+	&lt;li&gt;HPC sample render (JPG)&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[9d0be228-6c23-4524-9d16-252c9a771359]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

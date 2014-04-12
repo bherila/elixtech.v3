@@ -1,0 +1,20 @@
+<item id="24" name="" parent="23" title="" zoneName="BelowContent" templateKey="ImageAndText" state="16" created="09/22/2013 05:50:42" updated="04/12/2014 06:13:09" published="09/22/2013 05:52:03" expires="" sortOrder="0" url="/ContentPages/Index?n2page=23&amp;n2item=24" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="3" ancestralTrail="/1/4/5/10/23/" alteredPermissions="0" childState="2"><details><detail name="ImageFirst" typeName="System.Boolean, mscorlib" meta="">False</detail><detail name="HiddenPhone" typeName="System.Boolean, mscorlib" meta="">False</detail><detail name="Image" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[/upload/projects/lemonade-narrow.png]]></detail><detail name="Description" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Lemonade&lt;/h2&gt;
+
+&lt;p&gt;This is a software program to model demand states for an imaginary business using Bayesian networks and Monte Carlo methods.&lt;/p&gt;
+
+&lt;p&gt;Developed in&amp;nbsp;&lt;em&gt;cs141: Introduction to Artificial Intelligence&lt;/em&gt;&amp;nbsp;at Brown University in Spring, 2009.&lt;/p&gt;
+
+&lt;h3&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Java Swing graphical display (using JFreeChart)&lt;/li&gt;
+	&lt;li&gt;Mean and percentile demand state estimations&lt;/li&gt;
+	&lt;li&gt;Bayes and Monte Carlo methods&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Demonstration&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Available upon request (Java)&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[d125f1b4-7ff1-4ea8-b358-b0d751bf7ff6]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Image"><value key="Bool">False</value><value key="Int">0</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[/upload/projects/lemonade-narrow.png]]></value></detail></collection></detailCollections><children /><authorizations /><properties /></item>

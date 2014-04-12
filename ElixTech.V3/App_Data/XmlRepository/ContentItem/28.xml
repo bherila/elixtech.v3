@@ -1,0 +1,76 @@
+<item id="28" name="kitchen-things" parent="27" title="Kitchen Things" zoneName="" templateKey="TwoColumn" state="16" created="03/04/2013 07:23:44" updated="04/12/2014 06:13:09" published="03/04/2013 07:12:07" expires="" sortOrder="-20" url="/ContentPages/Index?n2page=28" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="5" ancestralTrail="/1/4/5/27/" alteredPermissions="0" childState="128"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Someone recently asked me... What does every kitchen need?&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;Pots &amp;amp; Pans&lt;/h2&gt;
+
+&lt;p&gt;3 quart saucepan (I&amp;#39;ve inherited my great-grandmothers old&amp;nbsp;&lt;em&gt;Revere ware&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;3 quart saute pan with lid (My favorite is&amp;nbsp;&lt;em&gt;All Clad&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;12 quart stainless steel stock pot/soup pot with tight-fitting lid&lt;/p&gt;
+
+&lt;p&gt;At least one more big pot - like an 8 quart stock or soup pot.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;At least one more small pot- like a 1 quart pot for making sauces in. Copper bottom or copper core is really nice here for even heat distribution when making fussy sauces.&lt;/p&gt;
+
+&lt;p&gt;Cast iron skillet with tight-fitting lid (I have a&amp;nbsp;&lt;em&gt;Lodge&amp;nbsp;&lt;/em&gt;skillet)&lt;/p&gt;
+
+&lt;p&gt;4-6 qt. enamed cast iron dutch oven with tight fitting lid (I have a&amp;nbsp;&lt;em&gt;4-qt. Staub&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;2 or 3 (or more) baking sheets. Get the nice big aluminum ones, and&amp;nbsp;&lt;em&gt;don&amp;#39;t put them (or anything else made of aluminum) in the dishwasher&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Two 9x12 glass baking dishes. Pyrex is good, but so is IKEA :-)&lt;/p&gt;
+
+&lt;p&gt;One smaller glass baking dish- like a 9x9 maybe.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Pie pan.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;9x3-inch aluminum cheesecake pan. NOT spring-form; removable bottom. I have a&amp;nbsp;&lt;em&gt;magic line&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Bread pan.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Cupcake molds. Nonstick is a clear winner here.&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;Measuring and Mixing&lt;/h2&gt;
+
+&lt;p&gt;Stainless steel measuring spoon&lt;/p&gt;
+
+&lt;p&gt;Dry measures (1/4 C to 1 C)&lt;/p&gt;
+
+&lt;p&gt;Two 2-Cup liquid measures&lt;/p&gt;
+
+&lt;p&gt;3 mixing bowls of various sizes. Bonus points if they nest.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Colander&lt;/p&gt;
+
+&lt;p&gt;Immersion blender&lt;/p&gt;
+
+&lt;p&gt;Hand mixer&lt;/p&gt;
+
+&lt;h2&gt;Utensils&lt;/h2&gt;
+
+&lt;p&gt;A &lt;u&gt;good&lt;/u&gt; chef&amp;#39;s knife. If you know how to chop, get a chef&amp;#39;s knife&amp;nbsp;without&amp;nbsp;a heel. I absolutely love my&amp;nbsp;&lt;em&gt;Shun classic 9&amp;quot; chefs knife&lt;/em&gt;. And maybe get a honing steel to keep it in good shape.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;At least TWO metal spatula/flippers&lt;/p&gt;
+
+&lt;p&gt;One or two good sturdy &lt;em&gt;hardwood&lt;/em&gt; wooden spoons (not one of those cheapo pinewood-derby ones that will fall apart after just a few weeks of good use)&lt;/p&gt;
+
+&lt;p&gt;Ladle (two, to be on the safe side). When I make a pot of soup, I leave the ladle in the pot in the refrigerator and it&amp;#39;s nice to have a second one in the meantime.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Bread knife (don&amp;#39;t spend too much on this one)&lt;/p&gt;
+
+&lt;p&gt;Paring knife (may or may not be worth investing in quality here, depending on your cooking style and preferences)&lt;/p&gt;
+
+&lt;p&gt;Rubber or silicone spatula/scraper&lt;/p&gt;
+
+&lt;h2&gt;Other items&lt;/h2&gt;
+
+&lt;p&gt;A &lt;em&gt;nice big&lt;/em&gt; cutting board, 18x24 inches would be very nice. Invest in quality here, i.e &lt;em&gt;J.K. Adams&lt;/em&gt;, which are made in Vermont and are made of very sturdy hardwoods. There&amp;#39;s nothing worse than a cheapo cutting board that ends up warping and then won&amp;#39;t sit flat anymore.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Can opener&lt;/p&gt;
+
+&lt;p&gt;Pizza slicer&lt;/p&gt;
+
+&lt;p&gt;Ice cream scoop&lt;/p&gt;
+
+&lt;p&gt;Instant read thermometer. Make sure you get a good one that is actually instant, not &amp;quot;30-seconds instant.&amp;quot;&lt;/p&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">9</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[23584a94-2cd8-4f05-ac63-5ec637b7930e]]></detail></details><detailCollections /><children><child id="29" name="29" versionIndex="3" versionKey="29b6f209-f760-499d-8943-1897d69e219a" /></children><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

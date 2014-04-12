@@ -1,0 +1,15 @@
+<item id="106" name="" parent="105" title="" zoneName="Right" templateKey="" state="16" created="12/28/2013 04:20:17" updated="04/12/2014 06:13:34" published="12/28/2013 04:20:20" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=104&amp;n2item=106" visible="True" savedBy="admin" typeName="N2.Web.RawHtml, N2.ReusableParts" discriminator="RawHtml" versionIndex="11" ancestralTrail="/1/4/5/104/105/" alteredPermissions="0" childState="2"><details><detail name="Body" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;ND3FNLHFW4XTU&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on0&quot; value=&quot;Choose a plan&quot;&gt;Choose a plan&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&quot;os0&quot;&gt;
+	&lt;option value=&quot;N2/M&quot;&gt;N2/M : $15.00 USD - monthly&lt;/option&gt;
+	&lt;option value=&quot;N2/A&quot;&gt;N2/A : $180.00 USD - yearly&lt;/option&gt;
+&lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on1&quot; value=&quot;Domain name&quot;&gt;Domain name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;os1&quot; maxlength=&quot;200&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;currency_code&quot; value=&quot;USD&quot;&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;
+&lt;/form&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4a982b55-15d5-4b39-8215-a221dac1be17]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Body"><value key="Bool">True</value><value key="Int">880</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[https://www.paypalobjects.com/en_US/i/scr/pixel.gif]]></value></detail></collection></detailCollections><children /><authorizations /><properties /></item>

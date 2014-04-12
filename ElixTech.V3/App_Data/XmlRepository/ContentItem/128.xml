@@ -1,0 +1,8 @@
+<item id="128" name="it-solutions" parent="111" title="IT Solutions" zoneName="" templateKey="Index" state="16" created="09/22/2013 19:33:52" updated="04/12/2014 06:13:50" published="09/22/2013 19:33:36" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=128" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/111/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;div&gt;
+&lt;h2&gt;Consider your on-site technology needs met and your expectations exceeded with Elix Computer Services.&amp;nbsp;&lt;/h2&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

@@ -1,0 +1,12 @@
+<item id="40" name="aarshe-saak" parent="30" title="Aarshe Saak" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:46:07" updated="04/12/2014 06:13:11" published="03/04/2013 08:41:29" expires="" sortOrder="60" url="/ContentPages/Index?n2page=40" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 ,onion (finely chopped)
+2 cloves, garlic (finely minced)
+1 tbsp, turmeric (ground)
+1/2 lb.,yellow split peas or lentils
+6 oz.,baby spinach leaves (finely chopped)
+12 C., water
+1 C., fresh mint (finely chopped)
+2 Tbsp.,flour or rice flour
+2 Tbsp.,lemon juice
+,olive oil
+,Sea salt and freshly ground pepper]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;&lt;span&gt;(make meatballs)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Add the onion and garlic to the same saucepan and saut&amp;eacute; until golden. Add the turmeric, split peas and water and bring to the boil. Reduce the heat and simmer for 20 minutes.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Carefully add the meatballs and spinach to the saucepan. Mix the plain flour with a cup cold water to make a smooth paste, and then slowly add it to the soup, stirring all the time to prevent it from going lumpy.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Stir in the lemon juice, season with salt and pepper and cook over a gentle heat for 20 minutes. Remove the soup from the heat and garnish with a little chopped fresh mint and serve immediately.&lt;/span&gt;&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

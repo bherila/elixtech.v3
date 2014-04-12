@@ -1,0 +1,14 @@
+<item id="85" name="black-pepper-green-beans" parent="84" title="Black Pepper Green Beans" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 06:52:51" updated="04/12/2014 06:13:23" published="12/28/2013 06:48:15" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=85" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/84/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2 lb.,green beans
+1 tsp.,ground black pepper
+1/2 tsp.,thai fish sauce
+1 tsp.,olive oil
+1 tsp.,sesame oil
+1 T.,garlic paste (or more)
+,silvered almonds (optional)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;ol&gt;
+	&lt;li&gt;Heat oil in a cast iron skillet. Add garlic, green beans, and black pepper. Cover tightly and shake the pan to coat them in the garlic and pepper. Cook over medium heat.&lt;/li&gt;
+	&lt;li&gt;After 2 minutes, shake up or stir the beans so they don&amp;#39;t burn, and cook 2 minutes longer.&lt;/li&gt;
+	&lt;li&gt;If using almonds, add them.&lt;/li&gt;
+	&lt;li&gt;Add fish sauce (and a bit of water if the green beans are burning).&lt;/li&gt;
+	&lt;li&gt;Cook for a final 2 minutes or until the beans are cooked to the desired consistency.&amp;nbsp;&lt;/li&gt;
+&lt;/ol&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/HaricotsVerts.9443.jpg]]></property></properties></item>

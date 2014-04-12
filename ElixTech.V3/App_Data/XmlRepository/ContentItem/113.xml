@@ -1,0 +1,22 @@
+<item id="113" name="hosted-tech" parent="111" title="Hosted Tech" zoneName="" templateKey="Index" state="16" created="09/22/2013 19:31:36" updated="04/12/2014 06:13:43" published="09/22/2013 19:31:18" expires="" sortOrder="-7" url="/ContentPages/Index?n2page=113" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/111/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;div&gt;
+&lt;h2&gt;Your web site is your online identity, so don&amp;#39;t leave it to chance. Web hosting is our flagship offering and we proudly host many web sites, big and small, on our highly-secure and state of the art hosting platform. We exceed our customer&amp;#39;s every expectation and provide the highest level of customized service and support, at surprisingly affordable prices.&lt;/h2&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;h3&gt;Learn More&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p&gt;Please explore the services we offer and don&amp;#39;t hesitate to contact us for more information, at&amp;nbsp;hosting@elixtech.com.&amp;nbsp;We will respond as soon as possible. If you&amp;#39;d like someone from Elix to call you back, please let us know when the best time to call would be and we&amp;#39;ll gladly set up an appointment.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

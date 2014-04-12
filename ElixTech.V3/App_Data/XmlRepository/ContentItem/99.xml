@@ -1,0 +1,20 @@
+<item id="99" name="" parent="97" title="Freelancer" zoneName="Column1" templateKey="ResumeItem" state="16" created="09/22/2013 07:45:41" updated="04/12/2014 06:13:29" published="09/29/2013 10:36:12" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=96&amp;n2item=99" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="4" ancestralTrail="/1/4/5/96/97/" alteredPermissions="0" childState="2"><details><detail name="Dates" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2005 to present]]></detail><detail name="Description" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;ul&gt;
+	&lt;li&gt;Design and build websites as a freelancer. Some recent examples include:&amp;nbsp;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;strong&gt;Middlesex Water Company&lt;/strong&gt; (www.middlesexwater.com),&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;Roessner &amp;amp; Co. &lt;/strong&gt;(www.roessner.net),&amp;nbsp;&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;Matilsky Construction&lt;/strong&gt;&amp;nbsp;(www.matilskyconstruction.com),&amp;nbsp;&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;Jaeger Lumber&lt;/strong&gt;&amp;nbsp;(www.jaegerlumber.com),&amp;nbsp;&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;The Curated Event&lt;/strong&gt;&amp;nbsp;(under construction).&amp;nbsp;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;TwoConsent, LLC.&lt;/strong&gt;&amp;nbsp;Formed LLC with partners. Native iOS app written in Objective-C.&lt;/li&gt;
+	&lt;li&gt;(Pro-bono)&amp;nbsp;&lt;strong&gt;Pacific Science Center&lt;/strong&gt; (2012-present), &lt;strong&gt;Christ Our Hope Catholic Church&lt;/strong&gt; (2012-present), &lt;strong&gt;Liberty Corner PTO&lt;/strong&gt; (Liberty Corner, NJ, 2011-present). Assist with IT-related issues and/or web design, e-mail and hosting&amp;nbsp;as a volunteer.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&amp;nbsp;web design, e-mail and hosting.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Subcontractor, Roessner &amp;amp; Co.&lt;/strong&gt; (2007-present) Web design direction and implementation for web sites, streaming media applications, and other online initiatives for high-profile clients such as Becton Dickinson and BCN Telecom.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The Walsh Company LLC.&lt;/strong&gt; (Onsite in Morristown, NJ; 2007-2013)&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Managed and supported Windows-based corporate network. Developed business applications in C#. In August 2010, led companywide upgrade of over 50 machines and 3 servers to Windows 7/Server 2008 R2, Exchange 2010, and Office 2010. In August 2013, seamlessly transitioned responsibilities for IT, web, and e-mail&amp;nbsp;to Avison Young after the purchase of the company.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Madison Tape, LLC.&amp;nbsp;&lt;/strong&gt;(2005-2007)&amp;nbsp;Startup in partnership with a former CEO of a Fortune 500 company. I designed and implemented the company&amp;#39;s web presence including the web site and an online system for designing and ordering customized athletic tape, associated business software, as well as all corporate IT resources. The company was acquired in 2007.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More projects featured at &lt;a href=&quot;http://bherila.net/portfolio&quot;&gt;http://bherila.net/portfolio&lt;/a&gt;&lt;/p&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[30b6238d-e30a-4da1-a1d4-dfa8d560c9a9]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Description"><value key="Bool">True</value><value key="Int">2174</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://bherila.net/portfolio]]></value></detail></collection></detailCollections><children /><authorizations /><properties /></item>

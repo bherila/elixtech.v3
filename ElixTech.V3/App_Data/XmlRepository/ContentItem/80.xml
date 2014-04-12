@@ -1,0 +1,8 @@
+<item id="80" name="classic-caesar-salad" parent="79" title="Classic Caesar Salad" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 06:44:44" updated="04/12/2014 06:13:21" published="12/28/2013 06:44:25" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=80" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/1/4/5/27/79/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1,large head of crisp romaine
+3,egg yolks
+1 C,grated parmesean cheese
+3/4 C,extra virgin olive oil
+1 tsp.,cracked black pepper (or more)
+2 tsp.,anchovy paste
+1/2 tsp.,kosher salt (or to taste)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Coming soon :-)&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/caesar.1933.jpg]]></property></properties></item>

@@ -1,0 +1,9 @@
+<item id="60" name="bolognese" parent="46" title="Bolognese" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 07:30:51" updated="04/12/2014 06:13:14" published="12/28/2013 07:29:18" expires="" sortOrder="90" url="/ContentPages/Index?n2page=60" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1/2 lb.,ground beef (80% lean)
+1/2 lb.,ground pork
+1/2 lb.,ground veal
+1/2 C.,whole milk
+28 oz.,can tomato puree
+14 oz.,can crushed tomatoes
+,salt
+,pepper
+,garlic]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-101.jpg]]></property></properties></item>

@@ -1,0 +1,42 @@
+<item id="76" name="lemon-souffle-pancakes" parent="74" title="Lemon Soufflé Pancakes" zoneName="" templateKey="Index" state="16" created="09/22/2013 07:16:20" updated="04/12/2014 06:13:19" published="09/22/2013 07:16:11" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=76" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/1/4/5/27/74/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;When I was in middle school my family went on a vacation to San Francisco, and one morning we decided to eat breakfast at the hotel restaurant. It just so happened that this breakfast is one of the most delicious and memorable breakfasts I&amp;#39;ve&amp;nbsp;&lt;em&gt;ever&lt;/em&gt;&amp;nbsp;had, and I was sorry to not have gotten the recipe back then. A few years later, by sheer luck, one of my best friend&amp;#39;s parents went on a business trip to the&lt;em&gt;Stanford Court&lt;/em&gt;&amp;nbsp;and had the pleasure at dining at that very same restaurant! When I found out she was within reach of that fabulous recipe I just&amp;nbsp;&lt;em&gt;had&lt;/em&gt;&amp;nbsp;to have it, and she pleaded on my behalf -- successfully -- to obtain it. Though&amp;nbsp;&lt;em&gt;Fourneous Ovens&lt;/em&gt;&amp;nbsp;has unfortunately closed down since, it lives on with this original recipe for their&amp;nbsp;&lt;em&gt;Lemon Souffl&amp;eacute; Pancakes&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;~/upload/cooking-2012/lemon-souffle-pancakes.jpg&quot; style=&quot;float:right; height:200px; width:300px&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;The Original Lemon Souffl&amp;eacute; Pancakes&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;MAKES 12 THREE-INCH PANCAKES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pancakes:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;3 eggs, separated&lt;/li&gt;
+	&lt;li&gt;1/3 cup all-purpose flour&lt;/li&gt;
+	&lt;li&gt;3/4 cups ricotta cheese&lt;/li&gt;
+	&lt;li&gt;1/4 cup butter, melted&lt;/li&gt;
+	&lt;li&gt;2 tablespoons sugar&lt;/li&gt;
+	&lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
+	&lt;li&gt;2 tablespoons grated lemon zest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;p&gt;Beat the egg whites until they form stiff peaks. In another bowl, stir together the egg yolks, flour, ricotta, butter, sugar, salt and lemon zest. Mix well. Gently fold the whipped egg whites into the egg yolk batter. There should be small pieces of egg white showing when mixed.&lt;/p&gt;
+
+&lt;p&gt;Heat skillet or griddle over medium heat. Grease lightly. Spoon out approximately 3 large tablespoons of batter for each pancake. Cook slowly for about 1.5 minutes, then turn the pancake over and cook for 30 seconds.&lt;/p&gt;
+
+&lt;p&gt;Keep the pancakes warm in a 250 degree (F) oven until ready to serve.&amp;nbsp;&lt;strong&gt;This is very important as they will collapse if you do not keep them warm.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Serve with raspberry syrup and fresh raspberries.&lt;/p&gt;
+
+&lt;h2&gt;Raspberry Syrup&lt;/h2&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;3/4 cups light corn syrup&lt;/li&gt;
+	&lt;li&gt;3/4 cups fresh raspberries&lt;/li&gt;
+	&lt;li&gt;3 teaspoons fresh lemon juice&lt;/li&gt;
+	&lt;li&gt;Combine corn syrup and raspberries in a small saucepan, and bring to a boil.&lt;/li&gt;
+	&lt;li&gt;Simmer for five minutes, and remove from heat.&lt;/li&gt;
+	&lt;li&gt;Allow to cool, then add lemon juice.&lt;/li&gt;
+	&lt;li&gt;Strain through a fine mesh strainer, pushing hard to remove the seeds.&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">69</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[128320bf-e2aa-4760-898c-ea9ef49867d1]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">891</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[/upload/cooking-2012/lemon-souffle-pancakes.jpg]]></value></detail></collection></detailCollections><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/lemon-souffle-pancakes.jpg]]></property></properties></item>

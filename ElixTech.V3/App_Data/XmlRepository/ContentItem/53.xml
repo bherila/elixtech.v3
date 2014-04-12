@@ -1,0 +1,16 @@
+<item id="53" name="baked-rigatoni" parent="46" title="Baked Rigatoni" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 03:58:27" updated="04/12/2014 06:13:13" published="03/05/2013 03:58:02" expires="" sortOrder="30" url="/ContentPages/Index?n2page=53" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb.   ,rigatoni or ziti pasta
+1 cup   ,tomato or vodka sauce (plus more for serving)
+8 oz.   ,garbanzo beans (chickpeas)
+8 oz.   ,spinach
+1       ,egg
+1 cup   ,ricotta cheese
+1/2 cup ,parmesean cheese
+1/2 cup ,mozzarella cheese or italian blend]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div id=&quot;page&quot; class=&quot;cf&quot;&gt;
+&lt;div id=&quot;content&quot;&gt;
+&lt;div id=&quot;main&quot;&gt;
+&lt;div class=&quot;uc markdownText&quot;&gt;
+&lt;p&gt;Mix all ingredients together, sprinkle additional cheese on top. Bake at 350 for 30 minutes or until cheese is melted and bubbly. Serve with heated tomato sauce.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

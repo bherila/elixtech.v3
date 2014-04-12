@@ -1,0 +1,12 @@
+<item id="124" name="" parent="123" title="" zoneName="BelowContent" templateKey="Index" state="16" created="09/22/2013 19:32:55" updated="04/12/2014 06:13:47" published="09/22/2013 19:32:58" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=123&amp;n2item=124" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="1" ancestralTrail="/1/4/111/113/123/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h3&gt;Failover hosting&amp;nbsp;&lt;/h3&gt;
+
+&lt;p&gt;Any of our web hosting packages can be customized to&amp;nbsp;&lt;em&gt;fail over&lt;/em&gt;&amp;nbsp;gracefully in the unlikely event of an unexpected server outage. Server outages can be caused by DDOS attacks, sudden spikes of high traffic, or application instability. We can fail over any type of service, including HTTP, SQL databases, and mail servers. When combined with our Redundant DNS services, your site can fail over within&amp;nbsp;&lt;strong&gt;seconds&lt;/strong&gt;&amp;nbsp;of an outage.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Redundant DNS&lt;/h3&gt;
+
+&lt;p&gt;We contract with highly reliable service providers to distribute your DNS records across more than 6 Tier 1 IP transit providers and 15 points of presence in the Internet&amp;#39;s most well connected data facilities&lt;/p&gt;
+
+&lt;h3&gt;Load Balancing and Pooling&lt;/h3&gt;
+
+&lt;p&gt;Dynamically distribute high traffic volumes across multiple servers to ensure great response times for even the most demanding peak load periods.&amp;nbsp;&lt;/p&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[e4cfb381-989c-4ba3-9ddb-7949708f5dfd]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

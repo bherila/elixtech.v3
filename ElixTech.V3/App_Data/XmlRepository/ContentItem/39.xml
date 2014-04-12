@@ -1,0 +1,9 @@
+<item id="39" name="indian-red-lentil" parent="30" title="Indian Red Lentil" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:41:08" updated="04/12/2014 06:13:10" published="03/04/2013 08:39:39" expires="" sortOrder="50" url="/ContentPages/Index?n2page=39" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1.5 cups,red lentils
+1.5 cups,yellow lentils
+1,large onion
+3/4 lb.,diced tomatoes
+1/3 lb,green peas
+,ground cumin
+,whole cumin seed
+,coriander
+,chili powder]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/IndianLentils.9251.jpg]]></property></properties></item>

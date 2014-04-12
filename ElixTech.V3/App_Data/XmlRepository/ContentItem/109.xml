@@ -1,0 +1,22 @@
+<item id="109" name="" parent="104" title="" zoneName="AboveContent" templateKey="Index" state="16" created="12/28/2013 04:21:01" updated="04/12/2014 06:13:35" published="12/28/2013 04:21:28" expires="" sortOrder="0" url="/ContentPages/Index?n2page=104&amp;n2item=109" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="13" ancestralTrail="/1/4/5/104/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;N2CMS Support and Web Hosting&lt;/h1&gt;
+
+&lt;p&gt;I am just a regular software engineer who happens to work on N2CMS in his &amp;ldquo;spare time.&amp;rdquo; I don&amp;rsquo;t really have the time to provide specialized support and hosting to individual users, unless that effort benefits the N2CMS project as a whole.&lt;/p&gt;
+
+&lt;p&gt;On this page:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Requesting free support&lt;/li&gt;
+	&lt;li&gt;Web hosting&lt;/li&gt;
+	&lt;li&gt;Freelance support, web design services&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Requesting free support&lt;/h2&gt;
+
+&lt;p&gt;Please feel free to request support for bugs that you encounter with N2CMS and the project coordinators and other community members will do their best to assist you. This generally extends to assistance with the framework, runtime exceptions that occur during normal use of N2CMS.&lt;/p&gt;
+
+&lt;p&gt;If you need help extending N2CMS to fit a more specific need, then I, along with the N2CMS community can also help you with that to a limited extent. It&amp;rsquo;s a lot easier to help you if you&amp;rsquo;re willing to share the source code for the extension that you&amp;rsquo;re building. And the community will be a lot more excited about helping you build your extension if it can eventually be made available to N2CMS users. Of course, it doesn&amp;rsquo;t make sense to put **every** extension into the main N2CMS code base, but it&amp;rsquo;s the thought that counts :-)&lt;/p&gt;
+
+&lt;p&gt;How to get free support: All support requests must be submitted through the N2CMS forum at http://n2cms.codeplex.com, OR at the Github issue tracker at http://github.com/n2cms/n2cms/issues. I cannot address any support requests via e-mail unless I have explicitly given you permission to e-mail me.&lt;/p&gt;
+
+&lt;h2&gt;Web hosting&lt;/h2&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[878f258d-ebd7-4331-bf35-3270752dcbcb]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

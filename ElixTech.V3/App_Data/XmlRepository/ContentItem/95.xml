@@ -1,0 +1,210 @@
+<item id="95" name="privacy-policy" parent="94" title="Privacy Policy" zoneName="" templateKey="Index" state="16" created="09/22/2013 23:21:12" updated="04/12/2014 06:13:27" published="09/22/2013 23:20:47" expires="" sortOrder="0" url="/ContentPages/Index?n2page=95" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/94/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;h1&gt;Privacy Policy of&amp;nbsp;&lt;strong&gt;www.bherila.net&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;This Application collects some Personal Data from its Users.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;Data Controller and Owner&lt;/h2&gt;
+
+&lt;p&gt;Benjamin Herila, 2515 4th Ave #1601. Seattle, WA 98121,&lt;br /&gt;
+bherila@bherila.net&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;Types of Data collected&lt;/h2&gt;
+
+&lt;p&gt;Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, First Name, Last Name and Email.&lt;/p&gt;
+
+&lt;p&gt;Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.&lt;br /&gt;
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.&lt;br /&gt;
+Any use of Cookies - or of other tracking tools - by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.&lt;br /&gt;
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.&lt;/p&gt;
+
+&lt;p&gt;The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;Mode and place of processing the Data&lt;/h2&gt;
+
+&lt;h3&gt;Method of processing&lt;/h3&gt;
+
+&lt;p&gt;The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data.&lt;br /&gt;
+Access to the Data may be available to Data Processors such as employees involved with the processing or to external parties providing services to the Data Controller, third party technical service providers, mail carriers, hosting providers, IT companies, communication agencies. The updated list of these parties may be requested from the Data Controller at any time.&lt;/p&gt;
+
+&lt;h3&gt;Place&lt;/h3&gt;
+
+&lt;p&gt;The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.&lt;/p&gt;
+
+&lt;h3&gt;Conservation Time&lt;/h3&gt;
+
+&lt;p&gt;The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;The use of the collected Data&lt;/h2&gt;
+
+&lt;p&gt;The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Contacting the User, Interaction with external social networks and platforms and Content commenting.&lt;/p&gt;
+
+&lt;p&gt;The Personal Data used for each purpose is outlined in the specific sections of this document.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;Detailed information on the processing of Personal Data&lt;/h2&gt;
+
+&lt;p&gt;Personal Data is collected for the following purposes and using the following services:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;
+	&lt;div style=&quot;margin-right:15px&quot;&gt;
+	&lt;h3&gt;Analytics&lt;/h3&gt;
+
+	&lt;div&gt;
+	&lt;p&gt;The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.&lt;/p&gt;
+
+	&lt;p&gt;Google Analytics (Google)&lt;/p&gt;
+
+	&lt;p&gt;Google Analytics is a web analysis service provided by Google Inc. (&amp;ldquo;Google&amp;rdquo;). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.&lt;br /&gt;
+	Google may use the Data collected to contextualize and personalize the ads of its own advertising network.&lt;/p&gt;
+
+	&lt;p&gt;Personal Data collected: Cookie and Usage Data.&lt;/p&gt;
+
+	&lt;p&gt;Place of processing: USA &amp;ndash;&amp;nbsp;&lt;a href=&quot;http://www.google.com/intl/en/policies/privacy/&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div style=&quot;margin-left:15px&quot;&gt;
+	&lt;h3&gt;Contacting the User&lt;/h3&gt;
+
+	&lt;div&gt;
+	&lt;p&gt;Contact form (This Application)&lt;/p&gt;
+
+	&lt;p&gt;By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form&amp;rsquo;s header.&lt;/p&gt;
+
+	&lt;p&gt;Personal Data collected: Email, First Name, Last Name and Various types of Data.&lt;/p&gt;
+
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div style=&quot;margin-right:15px&quot;&gt;
+	&lt;h3&gt;Content commenting&lt;/h3&gt;
+
+	&lt;div&gt;
+	&lt;p&gt;Content commenting services allow Users to make and publish their comments on the contents of this Application.&lt;br /&gt;
+	Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.&lt;br /&gt;
+	If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.&lt;/p&gt;
+
+	&lt;p&gt;Disqus (Disqus)&lt;/p&gt;
+
+	&lt;p&gt;Disqus is a content commenting service provided by Big Heads Labs Inc.&lt;/p&gt;
+
+	&lt;p&gt;Personal Data collected: Cookie and Usage Data.&lt;/p&gt;
+
+	&lt;p&gt;Place of processing: USA &amp;ndash;&amp;nbsp;&lt;a href=&quot;http://docs.disqus.com/help/30/&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div style=&quot;margin-left:15px&quot;&gt;
+	&lt;h3&gt;Interaction with external social networks and platforms&lt;/h3&gt;
+
+	&lt;div&gt;
+	&lt;p&gt;These services allow interaction with social networks or other external platforms directly from the pages of this Application.&lt;br /&gt;
+	The interaction and information obtained by this Application are always subject to the User&amp;rsquo;s privacy settings for each social network.&lt;br /&gt;
+	If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.&lt;/p&gt;
+
+	&lt;p&gt;Facebook Like button and social widgets (Facebook)&lt;/p&gt;
+
+	&lt;p&gt;The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc.&lt;/p&gt;
+
+	&lt;p&gt;Personal Data collected: Cookie and Usage Data.&lt;/p&gt;
+
+	&lt;p&gt;Place of processing: USA &amp;ndash;&amp;nbsp;&lt;a href=&quot;http://www.facebook.com/privacy/explanation.php&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;h2&gt;Additional information about Data collection and processing&lt;/h2&gt;
+
+&lt;h3&gt;Legal Action&lt;/h3&gt;
+
+&lt;p&gt;The User&amp;#39;s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.&lt;/p&gt;
+
+&lt;h3&gt;Additional Information about User&amp;#39;s Personal Data&lt;/h3&gt;
+
+&lt;p&gt;In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.&lt;/p&gt;
+
+&lt;h3&gt;System Logs and Maintenance&lt;/h3&gt;
+
+&lt;p&gt;For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).&lt;/p&gt;
+
+&lt;h3&gt;Information not contained in this policy&lt;/h3&gt;
+
+&lt;p&gt;More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.&lt;/p&gt;
+
+&lt;h3&gt;The rights of Users&lt;/h3&gt;
+
+&lt;p&gt;Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.&lt;/p&gt;
+
+&lt;h3&gt;Changes to this privacy policy&lt;/h3&gt;
+
+&lt;p&gt;The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.&lt;/p&gt;
+
+&lt;h3&gt;Information about this privacy policy&lt;/h3&gt;
+
+&lt;p&gt;The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on the Iubenda&amp;#39;s servers.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;div&gt;
+&lt;h3&gt;Definitions and legal references&lt;/h3&gt;
+
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Personal Data (or Data)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Usage Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server&amp;#39;s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User&amp;#39;s IT environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Subject&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The legal or natural person to whom the Personal Data refers to.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Processor&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Controller (or Application Owner, or Owner)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This Application&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The hardware or software tool by which the User Personal Data is collected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cookie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Small piece of data stored in the User&amp;#39;s device.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Legal information&lt;/p&gt;
+
+&lt;p&gt;Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.&lt;/p&gt;
+
+&lt;p&gt;This privacy policy is solely about this Application.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">3915</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.google.com/intl/en/policies/privacy/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">5477</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://docs.disqus.com/help/30/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">6488</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.facebook.com/privacy/explanation.php]]></value></detail></collection></detailCollections><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

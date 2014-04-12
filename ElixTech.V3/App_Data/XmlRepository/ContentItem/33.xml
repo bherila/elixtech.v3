@@ -1,0 +1,18 @@
+<item id="33" name="green-split-pea" parent="30" title="Green Split Pea" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:16:15" updated="04/12/2014 06:13:10" published="03/04/2013 08:14:57" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=33" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[14]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb.  ,green split peas: dried
+1/2 lb.,brown lentils: dried
+3      ,large carrots: minced
+3      ,large celery stalks: minced
+1      ,large yellow onion: minced
+3-4    ,garlic cloves: minced
+3 qt.  ,chicken stock
+3 qt.  ,water
+,cumin (to taste)
+,italian seasoning
+,black pepper (freshly ground)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Rinse the peas &amp;amp; lentils and drain. Then soak the dried beans and minced carrots in 3 qt. of water. Bring the lentils and water to a simmer and simmer for 30 minutes.&lt;/p&gt;
+&lt;p&gt;Meanwhile, in another large pot saute the bacon until well done, then remove from the pot and reserve on the side (you&#39;ll need it later).&lt;/p&gt;
+&lt;p&gt;In the bacon fat, saute the finely chopped onion, celery, and garlic. Sprinkle the onions and celery with about 1/2 tsp of salt to help draw out their moisture. Cover the pot tightly and reduce the heat to medium-low. Cook undisturbed for about 20 minutes.&lt;/p&gt;
+&lt;p&gt;Check to see if a layer of fond (dark brown sticky or crusty substance) has formed on the bottom of the pot. If not, raise the heat slightly and continue to cook uncovered for another 10 minutes. Do not stir the mixture until the crust/fond begins to form.&lt;/p&gt;
+&lt;p&gt;Next, deglaze the fond with about 1/4 cup of white wine, scraping the brown bits off the bottom of the pot. When most of the alcohol has evaporated, add the chicken stock and the lentils with their 2qt. water. Don&#39;t throw out the starchy water, as it contributes to the texture of the soup!&lt;/p&gt;
+&lt;p&gt;Season to taste with ground black pepper, cumin, and italian seasoning.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stir until well combined. Then transfer about 1/2 of the mixture plus the reserved bacon to a blender and puree as desired. Stir the puree back into the rest of the soup. Simmer for about 30 minutes more and serve hot.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

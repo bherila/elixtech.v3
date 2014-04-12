@@ -1,0 +1,25 @@
+<item id="36" name="wild-mushroom" parent="30" title="Wild Mushroom" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:29:39" updated="04/12/2014 06:13:10" published="03/04/2013 08:28:06" expires="" sortOrder="20" url="/ContentPages/Index?n2page=36" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6-8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb. ,portabella mushrooms
+4 oz. ,shitake mushrooms 
+4 oz. ,chanterelle mushrooms
+4 oz. ,oyster mushrooms
+3 Tbsp.,tamari soy sauce
+&#189; large ,onion
+4 large ,carrots peeled (about 2 cups coarse dice)
+4 large ,stalks celery (about 2 cups coarse dice)
+2-3 qt.,chicken broth 
+&#189; cup, heavy cream
+pinch ,arrowroot or guar gum (for thickening)
+, coriander (ground)
+, thyme
+, sage
+, black pepper
+, salt.]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;1. Throw all stems and about half of the mushrooms cut up, carrots, celery and onions into broth, add water until the mushrooms and veggies are just covered. Bring to a boil then simmer. Add herbs. Simmer for 2 hours or until the veggies go to mush.&lt;/p&gt;
+
+&lt;p&gt;2. Puree the wild mushrooms with stick blender. Add some more stock if needed, puree once more.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+3. Sautee the remaining mushrooms in (lots of) butter, then toss them in the soup and add the cream. Thicken a bit with a few shakes of arrowroot and salt/pepper to taste.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;4. Simmer for another hour and serve with a swirl of truffle oil and some cracked black pepper.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/mushroom-soup.0013.jpg]]></property></properties></item>

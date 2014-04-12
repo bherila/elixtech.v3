@@ -1,0 +1,25 @@
+<item id="47" name="chicken-and-artichokes" parent="46" title="Chicken and Artichokes" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 03:35:04" updated="04/12/2014 06:13:12" published="03/05/2013 03:32:35" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=47" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="10" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4-6]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2 lbs.,boneless chicken breast (cubed)
+~14 oz.,artichoke hearts (quartered; possibly canned)
+1 cup,dry white wine
+pinch,flour
+1 lb.,crimini mushrooms
+1 T.,butter
+,olive oil
+,garlic
+,salt and pepper]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Cut chicken breast halves (boned) into pieces.&amp;nbsp; Toss in a mixture of flour, salt &amp;amp; pepper. Shake off excess flour.&lt;/p&gt;
+
+&lt;p&gt;Put olive oil and butter in skillet with 2 cloves minced garlic (or more!). Heat well &amp;amp; brown chicken in batches. Add butter/oil as necessary.&amp;nbsp; Put chicken in casserole.&lt;/p&gt;
+
+&lt;p&gt;In leftover oil, add 1 cup dry white wine &amp;amp; the artichoke hearts cut into bite size chunks.&lt;/p&gt;
+
+&lt;p&gt;Saute &amp;frac12; lb mushorroms &amp;ndash; sliced thick &amp;ndash;&amp;nbsp;in butter &amp;amp; add to artichoke mix.&amp;nbsp; Stir it all into the chicken in casserole.&lt;/p&gt;
+
+&lt;p&gt;Bake covered at 350 for 25-30 minutes.&amp;nbsp; Remove cover &amp;amp; bake another 5 minutes.&lt;/p&gt;
+
+&lt;h2&gt;Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Best if prepared ahead of time for flavors to mix.&amp;nbsp; Then bake.&amp;nbsp; It may take longer if you start with a cold mixture.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;These ingredient amounts are proportional &amp;ndash; I usually at least double it&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">35</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[eaa7e530-cab2-4492-a784-0b5e6cca421c]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-003.jpg]]></property></properties></item>
