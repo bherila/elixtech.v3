@@ -3,7 +3,6 @@ bin
 *.7z
 obj
 *.pdb
-*.xml
 *.old
 SQLite.Interop*
 copter*.jpg
