@@ -49,33 +49,33 @@
     <Reference Include="MySql.Data">
       <HintPath>..\packages\MySql.Data.6.7.4\lib\net40\MySql.Data.dll</HintPath>
     </Reference>
-    <Reference Include="N2, Version=2.6.2.2, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Library.2.6.2.2\lib\net45\N2.dll</HintPath>
+    <Reference Include="N2">
+      <HintPath>..\packages\N2CMS.Library.2.6.3\lib\net45\N2.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.Extensions, Version=2.6.2.2, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.2.2\lib\N2.Extensions.dll</HintPath>
+    <Reference Include="N2.Extensions">
+      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.3\lib\N2.Extensions.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.IoC.Windsor3, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.2.2\lib\N2.IoC.Windsor3.dll</HintPath>
+    <Reference Include="N2.IoC.Windsor3">
+      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.3\lib\N2.IoC.Windsor3.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.Management, Version=2.6.2.2, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.2.2\lib\N2.Management.dll</HintPath>
+    <Reference Include="N2.Management">
+      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.3\lib\N2.Management.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.Packaging, Version=2.6.2.2, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.2.2\lib\N2.Packaging.dll</HintPath>
+    <Reference Include="N2.Packaging">
+      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.3\lib\N2.Packaging.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.Razor, Version=2.6.2.2, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.Razor.2.6.2.2\lib\net45\N2.Razor.dll</HintPath>
+    <Reference Include="N2.Razor">
+      <HintPath>..\packages\N2CMS.Razor.2.6.3\lib\net45\N2.Razor.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="N2.ReusableParts, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\N2CMS.ReusableParts.2.6.2.2\lib\NET40\N2.ReusableParts.dll</HintPath>
+    <Reference Include="N2.ReusableParts">
+      <HintPath>..\packages\N2CMS.Management.NoZip.2.6.3\lib\N2.ReusableParts.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -244,12 +244,6 @@
     <Content Include="Dinamico\Themes\Terracotta\Thumbnail.JPG" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\PreContent.cshtml" />
-    <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Head.cshtml" />
-    <Content Include="Dinamico\Themes\Default\Views\ContentParts\TwoColumns.cshtml" />
-    <Content Include="Dinamico\Themes\Default\Views\ContentParts\ImageFloat.cshtml" />
-    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Index.cshtml" />
-    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Container.cshtml" />
     <Content Include="Dinamico\Themes\Herila\Views\ContentParts\ImageAndText.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\Wide.cshtml" />
     <Content Include="Dinamico\Themes\Herila\Views\Shared\LayoutPartials\Content.cshtml" />
@@ -325,10 +319,12 @@
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\SubNavigation.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\SiteMap.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Search.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\PreContent.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\PostContent.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Logotype.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\LogOn.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Header.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Head.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Footer.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\Content.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\Shared\LayoutPartials\BlogContent.cshtml" />
@@ -343,6 +339,7 @@
     <Content Include="Dinamico\Themes\Default\Views\FreeForm\Index.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\FreeForm\Form.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\YouTube.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentParts\TwoColumns.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\ThreeColumns.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\Teaser.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\Slider.cshtml" />
@@ -352,6 +349,7 @@
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\LoginForm.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\Listing.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\Index.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentParts\ImageFloat.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\ImageAndText.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\Hyperlink.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentParts\GMap.cshtml" />
@@ -363,6 +361,8 @@
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\Selection.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\Redirect.cshtml" />
     <Content Include="Dinamico\Themes\Default\Views\ContentPages\News.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Index.cshtml" />
+    <Content Include="Dinamico\Themes\Default\Views\ContentPages\Container.cshtml" />
     <Content Include="Dinamico\Themes\Default\lib\jquery\jquery-1.10.2.min.map" />
     <Content Include="Dinamico\Themes\Default\lib\bootstrap-3.0.3\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Dinamico\Themes\Default\lib\bootstrap-3.0.3\fonts\glyphicons-halflings-regular.ttf" />
