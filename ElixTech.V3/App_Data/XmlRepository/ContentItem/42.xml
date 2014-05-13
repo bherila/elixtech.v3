@@ -1,17 +1,25 @@
-<item id="42" name="chicken-noodle" parent="30" title="Chicken Noodle" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 07:12:14" updated="04/12/2014 06:13:11" published="09/22/2013 07:05:31" expires="" sortOrder="80" url="/ContentPages/Index?n2page=42" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[12 C., chicken stock
-1/2 lb., egg noodles
-1/2 lb., carrots
-1/2 lb., celery
-1/4 lb.,yellow onion
-1/2 lb., boneless chicken meat
-2 T.,  parsley
-1,bay leaf]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;&lt;em&gt;The hard part is really getting the broth right. Follow the instructions on the Chicken Stock recipe and you should be good to go.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+<item id="42" name="chicken-stock" parent="31" title="Chicken Stock" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 05:44:24" updated="05/09/2014 22:33:51" published="09/22/2013 05:43:58" expires="" sortOrder="70" url="/ContentPages/Index?n2page=42" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="4" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[twelve 1-cup]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[12 C, water
+1, whole roasted chicken
+1/2 lb.,chicken feet (optional)
+1/2 lb.,carrots
+1/2 lb.,celery
+2,bay leaves]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;My local Asian market sells&amp;nbsp;&lt;em&gt;chicken breast frames&lt;/em&gt;, which are whole chickens with most of the meat removed (but still some bits attached). This makes it really easy and inexpensive&amp;nbsp;to get lots of bones to make chicken soup with. If you&amp;#39;re starting with a whole chicken, cut off most of the meat and reserve it. If you don&amp;#39;t feel like cutting the meat off of a raw chicken, you can also roast the chicken in the oven and then cut most of the meat off.&amp;nbsp;I don&amp;#39;t recommend cooking the whole chicken in the pot with the broth, because you will not get the flavor out of the&amp;nbsp;&lt;em&gt;bones&lt;/em&gt;, which is you really need to have in a good chicken stock.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;First, chop the carrots, celery, and onion. Add the vegetables to your soup pot along with some olive oil and saute for about 15 minutes or until they are translucent. Add the chicken meat and cover tightly. Continue to saute for 10-15 minutes longer covered tightly. There should be a pleasant chicken aroma at this point.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;To that point, as soon as you have your raw chicken bones (again, with most of the meat removed), the first thing you will want to do is take a large meat cleaver and hack the bones to pieces. Ideally you want 3-4 fragments. You are going to end up with bone fragments in the soup, which are very hard to remove later. Don&amp;#39;t worry, we&amp;#39;ll be &lt;em&gt;straining &lt;/em&gt;the soup to remove the bones and bone fragments before adding back the meat, and discarding the stuff we strain out once all the flavor of that stuff has made its way into the stock. This is why you removed most of the meat before we hacked up the chicken, right?&lt;/p&gt;
 
-&lt;p&gt;Next, add the parsely and bay leaf. Add the chicken stock and simmer for 20 minutes.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Once you&amp;#39;ve got your chicken carcass, put it into a huge pot with a dash of oil. Cover tightly and simmer on medium&amp;nbsp;heat for about 10 minutes. Lots of flavorful juices should come out of your chicken bones! Keep them in the pan. Add the veggies and simmer for 10 minutes longer.&lt;/p&gt;
 
-&lt;p&gt;Add the pasta and simmer for 10 minutes longer.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you&amp;#39;re using chicken feet (which will result in a much richer gelatinous stock), make sure the skin is removed. As&amp;nbsp;you add each piece to the pot, snip off the toes into your pot so that you&amp;#39;re cooking the toes separately from the feet. Lots of gelatin will come out of the knuckle joints and this will make your stock extremely luxurious! At this point, add the chicken feet.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Salt and pepper to taste and serve hot!&lt;/p&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-082.jpg]]></property></properties></item>
+&lt;p&gt;Also, add the bay leaves and any salt (recommend: 1&amp;nbsp;tsp.)&amp;nbsp;and pepper (recommend: 1 Tbsp. ground black pepper)&amp;nbsp;to taste.&lt;/p&gt;
+
+&lt;p&gt;Now simply cover all the bones with water (usually about 12 C.) and simmer for 2-3 hours, skimming the foam off the surface of the soup every 20-30 minutes.&amp;nbsp;&lt;strong&gt;Do not let the stock come to a rolling boil&lt;/strong&gt;&amp;nbsp;or else it will become cloudy with fat and you will have to clarify it later.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;When you are satisfied that your stock is just right, strain it through a fine-mesh sieve and discard the solids. Don&amp;#39;t try to save the little bits of chicken meat as they will be devoid of flavor anyway! That&amp;#39;s why we reserved the chicken meat at the start, remember?&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;You can use the stock in a soup immediately, otherwise transfer it to the refrigerator.&amp;nbsp;A layer of fat will accumulate on the top of the stock within 12 hours or so, and you can lift off and discard that fat (it&amp;#39;s OK if you leave some bits behind). You should remove the fat before freezing the stock, as it will be hard to remove the fat if the stock has frozen.&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;Roasted Chicken Stock&lt;/h2&gt;
+
+&lt;p&gt;If you want&amp;nbsp;&lt;strong&gt;roasted chicken stock&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;then you should roast the chicken bones in a 400-degree (F) oven until they are browned and there are some bits stuck to the bottom of your roasting pan. Then proceed as above, sauteeing the&amp;nbsp;&lt;em&gt;roasted&lt;/em&gt;&amp;nbsp;chicken bones instead of raw ones.&amp;nbsp;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-057.jpg]]></property></properties></item>

@@ -1,18 +1,20 @@
-<item id="101" name="" parent="97" title="" zoneName="Column1" templateKey="Index" state="16" created="09/22/2013 07:47:50" updated="04/12/2014 06:13:31" published="09/29/2013 10:36:12" expires="" sortOrder="10" url="/ContentPages/Index?n2page=96&amp;n2item=101" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="4" ancestralTrail="/1/4/5/96/97/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Education and Honors&lt;/h2&gt;
+<item id="101" name="" parent="98" title="Teaching" zoneName="Column1" templateKey="ResumeItem" state="16" created="09/22/2013 06:46:56" updated="05/09/2014 22:34:14" published="09/29/2013 09:36:12" expires="" sortOrder="0" url="/ContentPages/Index?n2page=97&amp;n2item=101" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="4" ancestralTrail="/2/5/6/97/98/" alteredPermissions="0" childState="2"><details><detail name="Dates" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h3 style=&quot;margin-left:0px; margin-right:0px&quot;&gt;Brown University, Computer Science Department&lt;/h3&gt;
 
-&lt;div&gt;
-&lt;h3 style=&quot;margin-left:0px; margin-right:0px&quot;&gt;Brown University; Providence, RI&lt;/h3&gt;
+&lt;p&gt;2008-2011&lt;/p&gt;
 
-&lt;p&gt;Graduated in 2011;&amp;nbsp;completed the requirements for Bachelors of Science (Sc.B.) in Computer Science and Applied Math and Bachelors of Arts (A.B.) in&amp;nbsp;Economics, with excellent marks (i.e., mostly &amp;quot;A&amp;quot;s)&amp;nbsp;although&amp;nbsp;Brown does not officially compute a GPA. Named CAP fellow in Fall 2008 and nominated for membership to Sigma Xi in Spring 2011.&lt;/p&gt;
+&lt;p&gt;Teaching Assistant and Head TA&lt;/p&gt;
 
-&lt;h3 style=&quot;margin-left:0px; margin-right:0px&quot;&gt;Delbarton School; Morristown, NJ&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;em&gt;Head TA,&lt;/em&gt;&amp;nbsp;Introduction to Software Engineering, Spring 2010 and 2011, Prof. John Jannotti. Managed ten undergraduate TAs and helped redesign the course with a new professor.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;Head TA,&lt;/em&gt;&amp;nbsp;Introduction to Computer Graphics, Fall 2010, Prof. Andries van Dam. Significant pedagogical design under leadership of Prof. van Dam; support code, lecture planning.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;Head TA:&lt;/em&gt;&amp;nbsp;Programming with Algorithms and Data Structures; Fall 2008, Prof. Steve Reiss.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;TA:&lt;/em&gt;&amp;nbsp;Introduction to Computer Graphics; Fall 2009, Prof. Andries Van Dam.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;TA:&lt;/em&gt;&amp;nbsp;Introduction to Software Engineering; Spring 2009, Prof. Steve Reiss.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Graduated in 2007; highest honors, National Merit Scholarship, University of Pennsylvania Book Award, Delbarton Medal for achievements in Computer Science. Editor-in-chief of&amp;nbsp;&lt;em&gt;The Courier&lt;/em&gt;, the school newspaper. Cantor and tenor in 3 music groups spanning plainsong from before the 15th century to modern choral arrangements.&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Liberty Corner Computing&lt;/h3&gt;
 
-&lt;h2&gt;Well-rounded&lt;/h2&gt;
+&lt;p&gt;2003-2004&lt;/p&gt;
 
-&lt;p&gt;I continue to play squash, go skiing and hiking as weather permits, frequently&amp;nbsp;cook (especially soups), participate in multiple singing groups, and play the piano.&lt;/p&gt;
-
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[b777d598-1d70-4e75-8136-09ec8b1865fe]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>
+&lt;p&gt;Taught students programming skills in HTML/CSS and BASIC.&lt;/p&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[c2cc09e1-3ba5-43d8-9dca-f4cfc1667807]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

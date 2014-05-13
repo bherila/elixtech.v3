@@ -1,11 +1,21 @@
-<item id="49" name="" parent="46" title="Meatloaf" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 03:49:10" updated="04/12/2014 06:13:12" published="03/05/2013 03:48:01" expires="" sortOrder="0" url="/ContentPages/Index?n2page=49" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="4" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="128"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[3]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb      ,ground beef -- 80% or 90% lean
-2         ,strips bacon -- about 3 oz.
-1         ,egg
-1/2 cup   ,onions -- minced
-2 cloves  ,garlic -- minced
-1/2 cup   ,breadcrumbs
-1 tsp.    ,arrowroot powder or flour (to thicken gravy)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;In a bowl, beat egg and about 1/2 cup of water. Stir in breadcrumbs to make a paste.&lt;/p&gt;
-&lt;p&gt;Place the ground beef in another bowl. Make a &quot;well&quot; and pour in the egg and breadcrumb mixture. Add the onions and garlic.&lt;/p&gt;
-&lt;p&gt;Mix the ingredients well and cut each strip of bacon in half. Lay the strips across the meatloaf.&lt;/p&gt;
-&lt;p&gt;Bake in a glass dish at 325 for about 75 minutes.&lt;/p&gt;
-&lt;p&gt;Remove the meatloaf from the glass dish and set on a serving plate. Deglaze the glass pan with 1/3 cup of Madeira wine. Dissolve flour or arrowroot powder in 1 cup of boiling beef stock to slightly thicken; add the mixture to the wine in the glass dish and scrape off any remaining bits from the dish. Pour off into a saucepan and simmer for 5 minutes.&lt;/p&gt;]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">35</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[c0af876a-04f0-49a7-a4de-36e20e00fc42]]></detail></details><detailCollections /><children><child id="50" name="50" versionIndex="2" versionKey="0f18440f-7836-4dfb-ba4b-920d8d89ab8d" /></children><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="49" name="grandma-dees-cutlets" parent="47" title="Grandma Dee's Cutlets" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 02:39:51" updated="05/09/2014 22:33:53" published="03/05/2013 02:36:54" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=49" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="6" ancestralTrail="/2/5/6/28/47/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2 lbs.,boneless skinless chicken breasts
+2, eggs
+2 T., water
+1 T., canola oil
+1/2 tsp., black pepper (freshly ground)
+1-2 C., seasoned Italian breadcrumbs]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Plan on about 8oz. (1/2 lb.) of chicken (uncooked weight) per person.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To make the cutlets&lt;/strong&gt;&amp;nbsp;(shortcut: use already-made&amp;nbsp;&lt;em&gt;thin-sliced&lt;/em&gt;&amp;nbsp;chicken breast cutlets):&lt;/p&gt;
+
+&lt;p&gt;Start with a boneless, skinless chicken breast. Locate the tendon between the breast tender and the main part of the breast. Cut along that line until the tender releases and folds out. Horizontally filet the remaining thick portion of the breast until two thin cutlets result. Trim excess fat off the cutlets.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once you have the cutlets&lt;/strong&gt;, soak the cutlets in a large metal bowl filled with cold water, about 2 tbsp. of lemon juice (about 1 lemon) and 1/2 teaspoon of kosher salt. Soak for at least 30 minutes. The water will become very cloudy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drain the cutlets&lt;/strong&gt;&amp;nbsp;and dry them well. Set out a plate of Italian seasoned breadcrumbs. Meanwhile, make a batter of the eggs, water, canola oil, and black pepper.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Coat each cutlet first in Italian seasoned, breadcrumbs, quickly dip in the egg batter, and finally coat again in the breadcrumbs, this time pressing down on each cutlet to ensure that the cutlet is evenly and thickly coated. Make more egg batter (scaling as needed) and pour more breadcrumbs onto the plate as needed.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Carefully lay each breaded cutlet into an ungreased glass baking dish (use as many glass dishes as you need to fit all the chicken in a single layer). Once this is done, put the baking dishes (uncovered) in the refrigerator for at least&amp;nbsp;&lt;strong&gt;1 hour&lt;/strong&gt;&amp;nbsp;to allow the breading to set.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Add canola oil to the baking dishes and bake at 350 for 18 minutes. Add more oil if needed. Carefully flip, add more oil if needed, and bake for 15 minutes more on the other side.&amp;nbsp;&lt;/p&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">35</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[a7314bd4-a2db-42c2-a3ac-477482630a5e]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/Cooking-2012/squares/2012-Cooking-099.jpg]]></property></properties></item>

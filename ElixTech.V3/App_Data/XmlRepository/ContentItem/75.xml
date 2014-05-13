@@ -1,15 +1,1 @@
-<item id="75" name="overnight-caramel-french-toast" parent="74" title="Overnight Caramel French Toast" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 07:15:34" updated="04/12/2014 06:13:19" published="09/22/2013 07:14:45" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=75" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/74/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 cup     ,firmly packed brown sugar
-1/2 cup   ,butter
-2 Tbsp.   ,light corn syrup
-12 slices ,sandwich bread
-6 eggs,  , beaten
-1.5 cups,  milk
-1 tsp.    ,vanilla extract
-1/4 tsp. , salt]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Combine sugar, butter and corn syrup in a small saucepan; cook over medium heat until thickened, stirring constantly. Pour syrup mixture into a 13x9x2&amp;quot; baking dish. Place 6 slices of bread on top of syrup mixture. Top with remaining 6 slices of bread.&lt;/p&gt;
-
-&lt;p&gt;Combine eggs, milk, vanilla, and salt, stirring until blended. Pour egg mixture evenly over bread slices. Cover and chill 8 hours. Bake, uncovered at 350 degrees for 40 to 45 minutes or until lightly browned.&lt;/p&gt;
-
-&lt;p&gt;Source:&amp;nbsp;&lt;em&gt;Forest Manor. 415 Cold Springs Road Rd. Napa Valley Wine Country. Angwin, CA 94508; (707) 965-3538&lt;/em&gt;&lt;/p&gt;
-
-&lt;div&gt;&amp;nbsp;&lt;/div&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="75" name="breakfast" parent="28" title="Breakfast" zoneName="" templateKey="RecipeBlock" state="16" created="09/22/2013 06:14:40" updated="05/09/2014 22:34:02" published="09/22/2013 06:14:33" expires="" sortOrder="-3" url="/ContentPages/Index?n2page=75" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/2/5/6/28/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/ba/Crepe.0233.jpg]]></property></properties></item>

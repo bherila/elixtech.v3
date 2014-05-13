@@ -1,12 +1,16 @@
-<item id="54" name="braciole-roulades" parent="46" title="Braciole Roulades" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 04:01:29" updated="04/12/2014 06:13:13" published="03/05/2013 04:00:57" expires="" sortOrder="40" url="/ContentPages/Index?n2page=54" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="6" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[5/4 lb. ,braciole-style beef (or flat iron steak)
-1/2     ,medium onion (chopped)
-1/4 lb. ,bacon (3 slices each cut in half)
-        ,dill pickle spears
-2/3 cup ,beef stock
-1/4 cup ,brandy
-1/3 cup ,Madeira wine
-        ,salt and freshly ground pepper]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Silce the braciole into 6 thin, equal slices (the butcher can usually do this for you with his or her meat slicer, often at no extra charge, if you ask).&lt;/p&gt;
-&lt;p&gt;Cut each piece of bacon in half so you have 6 half-slices. Fry the half slices in a cast iron skillet until almost done, then remove from heat. Leave the hot oil in the skillet.&lt;/p&gt;
-&lt;p&gt;Meanwhile, lay out the beef and sprinkle with kosher salt and garlic powder on both sides. Roll the beef up with some chopped onion, dill pickle, and 1/2 slice of bacon inside. Secure each roulade with a round toothpick if necessary. (Round toothpicks are sturdier than the flat ones)&lt;/p&gt;
-&lt;p&gt;Heat the bacon fat until it is very hot (just smoking). Brown the roulades in the oil on high heat. The roulades will release liquid into the pan and will braise in their own juices. After about 3 minutes, turn the roulades to brown on the other side. Then add about 1/4 cup of brandy and light with a match.&lt;/p&gt;
-&lt;p&gt;Remove the roulades to a side plate. Add about 1-2 tsp. of flour to the pan and cook the roux to a golden brown. Deglaze the pan with 2/3 cup of beef stock and 1/3 cup of Madeira wine, scraping to remove any browned bits. Season with plenty of freshly ground pepper. Simmer for about 2 minutes longer and serve over garlic mashed potatoes.&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="54" name="baked-rigatoni" parent="47" title="Baked Rigatoni" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 02:58:27" updated="05/09/2014 22:33:54" published="03/05/2013 02:58:02" expires="" sortOrder="30" url="/ContentPages/Index?n2page=54" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/2/5/6/28/47/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb.   ,rigatoni or ziti pasta
+1 cup   ,tomato or vodka sauce (plus more for serving)
+8 oz.   ,garbanzo beans (chickpeas)
+8 oz.   ,spinach
+1       ,egg
+1 cup   ,ricotta cheese
+1/2 cup ,parmesean cheese
+1/2 cup ,mozzarella cheese or italian blend]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div id=&quot;page&quot; class=&quot;cf&quot;&gt;
+&lt;div id=&quot;content&quot;&gt;
+&lt;div id=&quot;main&quot;&gt;
+&lt;div class=&quot;uc markdownText&quot;&gt;
+&lt;p&gt;Mix all ingredients together, sprinkle additional cheese on top. Bake at 350 for 30 minutes or until cheese is melted and bubbly. Serve with heated tomato sauce.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

@@ -1,14 +1,1 @@
-<item id="52" name="stuffed-peppers" parent="46" title="Stuffed Peppers" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 03:52:49" updated="04/12/2014 06:13:13" published="03/05/2013 03:52:43" expires="" sortOrder="20" url="/ContentPages/Index?n2page=52" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6 large , bell peppers
-1 large ,onion (finely chopped)
-1 lb., ground beef
-1 cup ,uncooked rice (rinsed)
-3/4 stick, butter
-1, egg
-30oz., plain tomato sauce]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;ol&gt;
-&lt;li&gt;Sweat onion with salt, pepper, and plenty of paprika. Remove from heat.&lt;/li&gt;
-&lt;li&gt;Combine meat, rice, 1 raw egg, and mix thoroughly into the onion.&lt;/li&gt;
-&lt;li&gt;Par-boil peppers, then dry on paper towel.&lt;/li&gt;
-&lt;li&gt;Fill the peppers&lt;/li&gt;
-&lt;li&gt;1/2 can of sauce in pyrex dish, then put the peppers in the dish, then pour the other 1/2 can on top&lt;/li&gt;
-&lt;li&gt;Cover tightly with aluminum foil, then bake @ 350 for about 1.5 hours.&lt;/li&gt;
-&lt;/ol&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="52" name="manicotti" parent="47" title="Manicotti" zoneName="" templateKey="Recipe" state="16" created="03/05/2013 02:52:41" updated="05/09/2014 22:33:54" published="03/05/2013 02:52:37" expires="" sortOrder="10" url="/ContentPages/Index?n2page=52" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/2/5/6/28/47/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" /><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

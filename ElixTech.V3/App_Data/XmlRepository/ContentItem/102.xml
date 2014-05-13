@@ -1,42 +1,18 @@
-<item id="102" name="" parent="97" title="" zoneName="Column2" templateKey="" state="16" created="09/29/2013 10:36:08" updated="04/12/2014 06:13:31" published="09/29/2013 10:36:12" expires="" sortOrder="20" url="/ContentPages/Index?n2page=96&amp;n2item=102" visible="True" savedBy="admin" typeName="N2.Web.RawHtml, N2.ReusableParts" discriminator="RawHtml" versionIndex="4" ancestralTrail="/1/4/5/96/97/" alteredPermissions="0" childState="2"><details><detail name="Body" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[		&lt;table class=&quot;contact rating-table&quot;&gt;
-			&lt;tr&gt;
-				&lt;td&gt;Website&lt;/td&gt;
-				&lt;td&gt;www.bherila.net&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-				&lt;td&gt;Email&lt;/td&gt;
-				&lt;td&gt;ben@herila.net&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-				&lt;td&gt;Phone&lt;/td&gt;
-				&lt;td&gt;908-867-8890&lt;/td&gt;
-			&lt;/tr&gt;
-		&lt;/table&gt;
+<item id="102" name="" parent="98" title="" zoneName="Column1" templateKey="Index" state="16" created="09/22/2013 06:47:50" updated="05/09/2014 22:34:15" published="09/29/2013 09:36:12" expires="" sortOrder="10" url="/ContentPages/Index?n2page=97&amp;n2item=102" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="4" ancestralTrail="/2/5/6/97/98/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Education and Honors&lt;/h2&gt;
 
-		&lt;h2&gt;Languages&lt;/h2&gt;
-		&lt;table class=&quot;rating-table&quot;&gt;
-			&lt;tr&gt;&lt;td&gt;C, C++&lt;/td&gt;        &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;C#, LINQ&lt;/td&gt;            &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;HTML, XML, CSS, JS&lt;/td&gt; &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Java&lt;/td&gt;          &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;PowerShell, Python, PHP&lt;/td&gt;   &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-		&lt;/table&gt;
-		&lt;table class=&quot;rating-table&quot; style=&quot;margin-top: 0.75em;&quot;&gt;
-			&lt;tr&gt;&lt;td&gt;English&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Latin&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;French&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star x&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-		&lt;/table&gt;
-		&lt;h2&gt;Platforms&lt;/h2&gt;
-		&lt;table class=&quot;rating-table&quot;&gt;
-			&lt;tr&gt;&lt;td&gt;Windows&lt;/td&gt;       &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Linux&lt;/td&gt;         &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Mac&lt;/td&gt;           &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-		&lt;/table&gt;
-		&lt;h2&gt;Software&lt;/h2&gt;
-		&lt;table class=&quot;rating-table&quot;&gt;
-			&lt;tr&gt;&lt;td&gt;MS Office&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Photoshop, Fireworks CS6, Lightroom 4&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;Bash, grep, awk, etc.&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-			&lt;tr&gt;&lt;td&gt;MySQL, MSSQL&lt;/td&gt;  &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
-		&lt;/table&gt;
-]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[66bc56e7-102a-42ee-b2c3-15d146c4dd72]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>
+&lt;div&gt;
+&lt;h3 style=&quot;margin-left:0px; margin-right:0px&quot;&gt;Brown University; Providence, RI&lt;/h3&gt;
+
+&lt;p&gt;Graduated in 2011;&amp;nbsp;completed the requirements for Bachelors of Science (Sc.B.) in Computer Science and Applied Math and Bachelors of Arts (A.B.) in&amp;nbsp;Economics, with excellent marks (i.e., mostly &amp;quot;A&amp;quot;s)&amp;nbsp;although&amp;nbsp;Brown does not officially compute a GPA. Named CAP fellow in Fall 2008 and nominated for membership to Sigma Xi in Spring 2011.&lt;/p&gt;
+
+&lt;h3 style=&quot;margin-left:0px; margin-right:0px&quot;&gt;Delbarton School; Morristown, NJ&lt;/h3&gt;
+
+&lt;p&gt;Graduated in 2007; highest honors, National Merit Scholarship, University of Pennsylvania Book Award, Delbarton Medal for achievements in Computer Science. Editor-in-chief of&amp;nbsp;&lt;em&gt;The Courier&lt;/em&gt;, the school newspaper. Cantor and tenor in 3 music groups spanning plainsong from before the 15th century to modern choral arrangements.&amp;nbsp;&lt;/p&gt;
+
+&lt;h2&gt;Well-rounded&lt;/h2&gt;
+
+&lt;p&gt;I continue to play squash, go skiing and hiking as weather permits, frequently&amp;nbsp;cook (especially soups), participate in multiple singing groups, and play the piano.&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[b777d598-1d70-4e75-8136-09ec8b1865fe]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

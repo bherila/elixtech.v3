@@ -1,9 +1,22 @@
-<item id="39" name="indian-red-lentil" parent="30" title="Indian Red Lentil" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:41:08" updated="04/12/2014 06:13:10" published="03/04/2013 08:39:39" expires="" sortOrder="50" url="/ContentPages/Index?n2page=39" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1.5 cups,red lentils
-1.5 cups,yellow lentils
-1,large onion
-3/4 lb.,diced tomatoes
-1/3 lb,green peas
-,ground cumin
-,whole cumin seed
-,coriander
-,chili powder]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/IndianLentils.9251.jpg]]></property></properties></item>
+<item id="39" name="hot-and-sour-soup" parent="31" title="Hot and Sour Soup" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 07:39:00" updated="05/09/2014 22:33:51" published="03/04/2013 07:37:50" expires="" sortOrder="40" url="/ContentPages/Index?n2page=39" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[15]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6 qt, water
+1-2 T ,chicken base
+1-2 T ,instant hot and sour paste (or Tom Yum paste)
+,Tree Ear/Wood Ears (Chinese Black Fungus)
+8, mushrooms such as Shiitaki
+1 C ,dried galangal (thai ginger)
+4 cloves ,garlic 
+1 can ,bamboo shoots
+1-2 tsp ,black pepper (to taste)
+1-2 tsp ,white pepper (to taste)
+2 ,bay leaves
+1 C, tiger lily blossoms
+2, eggs
+,Tofu or rice noodles (if desired)
+1/2 C, corn starch dissolved in 2 C water (corn starch slurry)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Combine water, bay leaves, galangal, shiitaki mushrooms, bay leaves, and tiger lily blossoms in a large pot. Bring to boil and simmer for 30 minutes.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Fish out the tiger lily blossoms and bay leaves and discard. Puree the remaining mixture until smooth using an immersion blender. This is important because the galangal may give the soup a woody texture if not pureed!&lt;/p&gt;
+
+&lt;p&gt;Add the corn starch slurry (see above) and other remaining ingredients (except rice noodles if using them) and simmer another 30 minutes. Meanwhile, lightly beat the eggs in a small bowl. Bring the soup to a rolling boil and drop the eggs into the boiling liquid. Reduce to a simmer and serve immediately.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;If you are using rice noodles, prepare them separately according to the instructions and add to individual bowls before serving.&amp;nbsp;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-018.jpg]]></property></properties></item>

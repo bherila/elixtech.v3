@@ -1,20 +1,4 @@
-<item id="135" name="contact" parent="111" title="Contact" zoneName="" templateKey="Index" state="16" created="09/22/2013 19:50:27" updated="04/12/2014 06:13:56" published="09/22/2013 19:50:21" expires="" sortOrder="0" url="/ContentPages/Index?n2page=135" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/111/" alteredPermissions="0" childState="4"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;Contact Us&lt;/h1&gt;
-
-&lt;p&gt;Please call 908-867-8890 or e-mail bherila@elixtech.com for service.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;If we are unable to answer the phone, it is because we are assisting another customer. Please leave a message and we will return your call as soon as possible.&lt;/p&gt;
-
-&lt;h1&gt;About Us&lt;/h1&gt;
-
-&lt;p&gt;Elix Technologies was founded in 2006 by two technology enthusiasts, Ben Herila and John Reed. Since then, Elix has grown and expanded across multiple states, and we pride ourselves on providing outstanding services and support to our customers around the country.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;We currently provide services in the following areas:&amp;nbsp;&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:20px&quot;&gt;
-	&lt;li&gt;Basking Ridge, NJ&lt;/li&gt;
-	&lt;li&gt;Denver, CO&lt;/li&gt;
-	&lt;li&gt;Saratoga, CA&lt;/li&gt;
-	&lt;li&gt;Seattle, WA&lt;/li&gt;
-	&lt;li&gt;Washington, DC&lt;/li&gt;
-&lt;/ul&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="135" name="" parent="133" title="Roessner &amp; Co." zoneName="BelowContent" templateKey="ResumeItem" state="16" created="09/22/2013 18:48:16" updated="05/09/2014 22:34:38" published="09/22/2013 18:49:32" expires="" sortOrder="0" url="/ContentPages/Index?n2page=133&amp;n2item=135" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="1" ancestralTrail="/2/5/112/129/133/" alteredPermissions="0" childState="2"><details><detail name="Dates" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[August 2011]]></detail><detail name="Description" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;p&gt;Roessner &amp;amp; Co. is a strategic design firm that specializes in creating annual reports for international clients. &amp;nbsp;They depend on reliable access to e-mail every day when communicating with their customers. Roessner &amp;amp; Co. trusts Elix to provide business critical hosting services for their email and corporate website. &amp;nbsp;Elix migrated their e-mail services from a legacy POP3 solution to a cloud based platform based on Microsoft Exchange 2010, SharePoint 2010, and a custom content management layer for their public website.&lt;/p&gt;
+&lt;/div&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[153271e9-8838-46e7-bbe9-20b04aa71b98]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

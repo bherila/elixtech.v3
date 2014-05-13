@@ -1,29 +1,72 @@
-<item id="65" name="janet-memorial-fruit-salad" parent="63" title="Janet Memorial Fruit Salad" zoneName="" templateKey="Index" state="16" created="09/22/2013 07:22:09" updated="04/12/2014 06:13:16" published="09/22/2013 07:21:44" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=65" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/63/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;Janet Memorial Fruit Salad&lt;/h1&gt;
+<item id="65" name="blackberry-vanilla-cupcakes" parent="64" title="Blackberry Vanilla Cupcakes" zoneName="" templateKey="Index" state="16" created="09/22/2013 06:19:11" updated="05/09/2014 22:33:58" published="09/22/2013 06:18:53" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=65" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/2/5/6/28/64/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Blackberry Coulis&lt;/h2&gt;
+
+&lt;p&gt;Makes about 150ml or 1/4 pint&lt;/p&gt;
 
 &lt;div&gt;
-&lt;p&gt;Anyone who has been to a CS15 TA party knows about Janet&amp;#39;s famous fruit salad. It&amp;#39;s a staple at the summer BBQ! There is always a brand-new TA scrambling at the last minute to find the recipe (rumored to be stored somewhere in the&amp;nbsp;&lt;em&gt;course&lt;/em&gt;&amp;nbsp;directory), and there is now a backup copy here for all to enjoy. There&amp;#39;s really no secret; just&amp;nbsp;&lt;strong&gt;lots of fruit&lt;/strong&gt;!&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;ol&gt;
+	&lt;li&gt;250&lt;span&gt;g&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;blackberries&lt;/span&gt; &lt;span&gt;(&lt;/span&gt;&lt;span&gt;8.8&lt;/span&gt; oz&lt;span&gt;)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;50g golden caster sugar&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;/&lt;/span&gt;&lt;span&gt;2&lt;/span&gt; tsp vanilla extract&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;~8&amp;nbsp;&lt;strong&gt;tangerines&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Put the blackberries and sugar into a small pan with 100ml (3.5 fl oz.) water. Bring to the boil, then simmer for 5 mins until the fruit is soft. Stir in the vanilla, remove and cool a little.&lt;/p&gt;
 
-&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;apples&lt;/strong&gt;&amp;nbsp;(greeen)&lt;/p&gt;
+&lt;p&gt;Tip the contents of the pan into a blender or food processor, and whizz to a pur&amp;eacute;e, then strain through a sieve, rubbing it through with the back of a ladle or spoon. Serve warm or chilled.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Strawberries&lt;/strong&gt;,&amp;nbsp;LOTS :) -&amp;gt;&amp;nbsp;estimate at least 2 strawberries per person,&amp;nbsp;3-4 packages&lt;/p&gt;
+&lt;p&gt;Keeps in an airtight container in the fridge for up to 3 days, or freeze for up to 3 months.&lt;/p&gt;
 
-&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;mangos&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Blackberry Vanilla Cupcakes&lt;/h2&gt;
 
-&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;peaches&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This recipe makes 12 delicious, light and moist cupcakes.&lt;/em&gt;&amp;nbsp;For the cupcakes:&lt;/p&gt;
 
-&lt;p&gt;~7&amp;nbsp;&lt;strong&gt;nectarines&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt; cup flour&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;2&lt;/span&gt; tsp&lt;span&gt;.&lt;/span&gt; baking powder&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt; tsp&lt;span&gt;.&lt;/span&gt; salt&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;6&lt;/span&gt; tbsp&lt;span&gt;.&lt;/span&gt; &lt;span&gt;unsalted&lt;/span&gt;&lt;span&gt; &lt;/span&gt;butter&lt;span&gt;,&lt;/span&gt; at room temperature&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt; cup granulated sugar&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;2&lt;/span&gt; eggs&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt; tsp&lt;span&gt;.&lt;/span&gt; vanilla extract&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;/&lt;/span&gt;&lt;span&gt;2&lt;/span&gt; cup milk&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;/&lt;/span&gt;&lt;span&gt;2&lt;/span&gt; cup &lt;span&gt;blackberry&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;coulis&lt;/span&gt; &lt;span&gt;(&lt;/span&gt;&lt;span&gt;recipe&lt;/span&gt;&lt;span&gt; &lt;/span&gt;above&lt;span&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Pineapples&lt;/strong&gt;,&amp;nbsp;fresh chopped, about 2 pineapples worth&amp;nbsp;&lt;br /&gt;
-(if you can find fresh, refrigerator kind)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For the frosting:&lt;/p&gt;
 
-&lt;p&gt;~10&amp;nbsp;&lt;strong&gt;kiwi&lt;/strong&gt;&lt;br /&gt;
-&amp;nbsp;&lt;br /&gt;
-&lt;strong&gt;watermelons&lt;/strong&gt;, 2 medium&lt;br /&gt;
-&amp;nbsp;&lt;br /&gt;
-&lt;strong&gt;canteloupes&lt;/strong&gt;, about 3&lt;br /&gt;
-&amp;nbsp;&lt;br /&gt;
-&lt;strong&gt;grapes&lt;/strong&gt;: 2 purple, 1 green&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ol&gt;
+	&lt;li&gt;&lt;span&gt;8&lt;/span&gt; oz&lt;span&gt;.&lt;/span&gt; &lt;span&gt;cream&lt;/span&gt;&lt;span&gt; &lt;/span&gt;cheese&lt;span&gt;,&lt;/span&gt; at room temperature&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;3&lt;/span&gt; cups &lt;span&gt;powdered&lt;/span&gt;&lt;span&gt; &lt;/span&gt;sugar&lt;span&gt;,&lt;/span&gt; sifted&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;2&lt;/span&gt; tbsp&lt;span&gt;.&lt;/span&gt; blackberry coulis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Optional: Blackberries for decoration&lt;/p&gt;
+
+&lt;p&gt;Preheat the oven to 350 F (180 C).&lt;/p&gt;
+
+&lt;p&gt;In a small mixing bowl, stir together the flour, baking powder and salt. Set aside.&lt;/p&gt;
+
+&lt;p&gt;In another bowl or liquid measuring cup, whisk together the milk and blackberry coulis. Set aside.&lt;/p&gt;
+
+&lt;p&gt;In the bowl of an electric mixer, cream together the butter and granulated sugar on medium-high speed until light and fluffy. Add in the eggs one at a time, scraping down the bowl between additions.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;Add half of the dry ingredients to the bowl of the mixer and mix on low speed until just combined.&lt;/li&gt;
+	&lt;li&gt;Mix in the blackberry coulis/milk mixture.&lt;/li&gt;
+	&lt;li&gt;Mix in the remaining dry ingredients on low speed just until incorporated. Do not over-mix.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Line a cupcake pan with paper liners. Divide the batter evenly between the prepared paper liners. Bake 12-15 minutes or until a toothpick inserted in the center comes out clean. Allow to cool in the pan 10-15 minutes. Transfer to a wire rack and allow to cool completely.&lt;/p&gt;
+
+&lt;p&gt;To make the frosting, combine the cream cheese, powdered sugar and blackberry coulis in the bowl of a stand mixer fitted with the paddle attachment. Mix on high speed until smooth and well blended. Frost cooled cupcakes as desired and garnish with fresh blackberries.&lt;/p&gt;
 ]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

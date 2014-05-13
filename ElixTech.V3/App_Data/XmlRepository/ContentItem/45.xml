@@ -1,33 +1,23 @@
-<item id="45" name="chicken-sausage-gumbo" parent="30" title="Chicken &amp; Sausage Gumbo" zoneName="" templateKey="Recipe" state="16" created="01/22/2014 02:48:03" updated="04/12/2014 06:13:11" published="01/22/2014 02:44:20" expires="" sortOrder="110" url="/ContentPages/Index?n2page=45" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="4" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[15]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 C.,canola oil
-1 C.,all-purpose flour
-1 lb.,frozen cut okra
-1 Tbsp.,garlic powder
-1-2 Tbsp.,gumbo Fil&#233; powder
-1 Tbsp.,dried thyme
-2-3,bay leaves
-6 qt.,chicken stock
-1 T.,tomato paste
-1,chipotle chili pepper (or 1 T. dried)
-1 T.,red chili powder (dried)
-1 T.,cajun black pepper (dried)
-1,jalapeno pepper
-1.5 lbs,yellow onions (~2 medium)
-1/2 lb.,carrots
-1/2 lb.,celery
-1.5 lbs,spicy Andouille sausage
-1 lb.,boneless chicken breast]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;&lt;em&gt;Four kinds of peppers and a dark roux give this soup a rich, spicy, and complex flavor. I use Andouille&amp;nbsp;chicken&amp;nbsp;sausage, rather than pork sausage, sourced from my local meat market. A high quality, low-fat sausage makes all the difference in this recipe.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+<item id="45" name="chicken-tortilla" parent="31" title="Chicken Tortilla" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 05:33:40" updated="05/09/2014 22:33:52" published="12/28/2013 05:27:38" expires="" sortOrder="100" url="/ContentPages/Index?n2page=45" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="5" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8-10]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2 Q,chicken stock
+44 oz.,crushed tomatoes (canned)
+6-8,corn tortillas
+1 small,jalapeno pepper
+1/2,yellow onion
+3 cloves,crushed garlic
+1 small,chipolte chili pepper (can be canned)
+garnish,queso fresco
+garnish,green onions (optional)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Saute garlic,&amp;nbsp;onion, and jalapeno in the pot (medium heat) until the onion is translucent, about 15 minutes.&lt;/p&gt;
 
-&lt;p&gt;Heat oil in a 8-12 quart soup pot until hot. Reduce heat to medium. Add flour and whisk until pancake-batter consistency. Cook over low to medium heat (depending on your confidence level). Stir constantly, take care not to let the roux burn. The roux is burning if it smells like burnt popcorn.&lt;/p&gt;
+&lt;p&gt;Add chicken stock and a few corn tortillas (torn into pieces)&amp;nbsp;and bring to a simmer. Blend with an immersion blender or food mill. Add more corn tortillas as desired to thicken the soup.&lt;/p&gt;
 
-&lt;p&gt;Meanwhile, roast the sausages in the oven (broil @ 500 degrees F) or grill them until browned/blackened (as you like them). They should NOT be fully cooked through.&amp;nbsp;Slice into bite size pieces and set aside.&lt;/p&gt;
+&lt;p&gt;Blend in the chipotle chili pepper pieces at a time until the soup reaches the desired spiciness. If you add a whole pepper or a whole can of peppers, be careful, as chipotle peppers can be very spicy!&lt;/p&gt;
 
-&lt;p&gt;Also meanwhile, chop carrots, celery, and jalapeno pepper- doesn&amp;#39;t have to be too small because you will be pureeing the soup later.&lt;/p&gt;
+&lt;p&gt;Add tomatoes and bring to a simmer again. Blend to desired chunkiness. Serve hot. Add cubes of queso fresco&amp;nbsp;cheese and tortilla crisps just before serving. Garnish with green onions if desired.&lt;/p&gt;
 
-&lt;p&gt;When the roux is a rich&amp;nbsp;brown&amp;nbsp;(like chocolate), about 30-45 minutes, add 2 Tbsp. more flour and whisk to incorporate. (Note that as the roux cooks, the starches in the flour break down and the roux loses much of its ability to thicken; the additional white flour will restore some of that thickening power).&amp;nbsp;Whisk for 2 minutes until you can&amp;#39;t see the white flour anymore. Add the chopped onions, carrots, celery, and&amp;nbsp;tomato paste and coat with the roux (use a big metal spoon instead of the whisk at this point). Cover the pot and cook over low to medium heat for approximately 20 minutes, until the vegetables are softened.&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;To make tortilla crisps&lt;/strong&gt;, cut corn tortillas into strips. Spray or lightly coat with oil and bake in the oven until crispy.&lt;/p&gt;
 
-&lt;p&gt;Next, add 6 quarts of chicken stock,&amp;nbsp;the bay leaves, the jalapeno pepper, chili powder, cajun black pepper,&amp;nbsp;and&amp;nbsp;the chipotle chili pepper. Bring to a simmer and continue simmering for 40 minutes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Queso fresco&lt;/strong&gt;&amp;nbsp;cheese can usually be found near the mozzarella. If unavailable, you can substitute fresh cheese curds.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Remove the bay leaves and puree the soup to desired consistency. Next, add the dried thyme, garlic powder, okra, chicken breast (cut into cubes) and sausage pieces. Simmer for 15 minutes.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Finish with Fil&amp;eacute;&amp;nbsp;powder (ensure it is all combined) and serve immediately&amp;nbsp;over white rice.&lt;/p&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+&lt;p&gt;&lt;strong&gt;Chipotle chili peppers&lt;/strong&gt;&amp;nbsp;can usually be found near the Mexican foods.&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/tortilla-soup.9579.jpg]]></property></properties></item>

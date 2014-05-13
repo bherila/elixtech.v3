@@ -1,7 +1,22 @@
-<item id="90" name="braised-rappini" parent="84" title="Braised Rappini" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 07:21:17" updated="04/12/2014 06:13:25" published="12/28/2013 07:18:42" expires="" sortOrder="20" url="/ContentPages/Index?n2page=90" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/84/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb, rappini (broccoli rabe)
-,salt
-,pepper
-,garlic]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Cut the rappini into bite-size pieces. Cut larger pieces toward the tender, leafy end. Cut smaller pieces toward the stalk. Discard any part of the stalk that is tough or fibrous.&amp;nbsp;&lt;/p&gt;
+<item id="90" name="poutine" parent="85" title="Poutine" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 06:10:19" updated="05/09/2014 22:34:09" published="12/28/2013 06:08:27" expires="" sortOrder="10" url="/ContentPages/Index?n2page=90" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/2/5/6/28/85/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb,yukon gold potatoes
+8 oz.,beef gravy (ideally homemade)
+4 oz.,fresh &amp; squeeky cheddar cheese curds]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;ul&gt;
+	&lt;li&gt;Cut the fries into 1/4 to 1/3-inch thick julienne. Soak in water for 20 minutes.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;In a heavy (such as cast iron) dutch oven or deep fryer, heat oil to 300 F.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Toss in olive oil, salt, pepper, and garlic and bake at 375 for 18-23&amp;nbsp;minutes, OR cook in a skillet (partially covered)&amp;nbsp;until tender (10 minutes).&lt;/p&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/potatoes-rappini.0031-2.jpg]]></property></properties></item>
+&lt;h3&gt;&lt;strong&gt;To make the fries&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Completely dry the potatoes just before you add them to the hot oil.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Cook potatoes 3-4 minutes (should be cooked on the inside with no color on the outside)&lt;/li&gt;
+	&lt;li&gt;Remove and put on backing rack above a baking sheet to cool.&lt;/li&gt;
+	&lt;li&gt;Bring oil temp up to 375 F.&lt;/li&gt;
+	&lt;li&gt;Put the fries back into the oil and cook until golden brown.&lt;/li&gt;
+	&lt;li&gt;Remove and drain on baking rack once again. Salt to taste.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;strong&gt;Final assembly&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Toss in beef gravy and top with the cheese&amp;nbsp;curds. &amp;nbsp;Serve immediately while the fries are still crisp.&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/poutine.0180.jpg]]></property></properties></item>

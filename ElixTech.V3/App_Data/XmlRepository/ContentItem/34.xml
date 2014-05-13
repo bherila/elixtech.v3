@@ -1,36 +1,18 @@
-<item id="34" name="roasted-pumpkin" parent="30" title="Roasted Pumpkin" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:21:02" updated="04/12/2014 06:13:10" published="03/04/2013 08:20:15" expires="" sortOrder="0" url="/ContentPages/Index?n2page=34" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8-10]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 1/2 lbs, of pumpkin (3 cups)
-1, Vidalia onion (chopped)
-1 cup, carrots (peeled and diced)
-1 cup, celery (diced)
-1 Tbsp., olive oil
-6, garlic cloves
-2, bay leaves
-1, Tbsp. peppercorn
-1, fresh thyme sprig (or 2 tsp. dried)
-4 cups, chicken stock
-2, cinnamon sticks
-1 1/2 tsp., espelette powder or paprika
-1 cup, low-fat yogurt
-,Pumpkin seed oil
-,Salt and pepper to taste]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Preheat oven to 350&amp;deg;.&lt;/p&gt;
-&lt;p&gt;Cut the pumpkin in half and place it, cut side down, on an oiled baking sheet. Bake until it is easily pierced with a knife (about 45 minutes). Let cool. Scoop the flesh and discard the skin and seeds. Press the pumpkin flesh through a strainer.&lt;/p&gt;
-&lt;p&gt;Warm the olive oil in a soup pot over medium heat. Sweat the carrots, onion, garlic until translucent for about 5 to 10 minutes. Add the dry spices and the aromatics. Add the pumpkin puree and chicken stock. Bring to a boil and simmer for about 15 minutes. Add entire mixture into a blender and blend.&lt;/p&gt;
-&lt;p&gt;Put back in a pot to gently simmer. Finish with yogurt and adjust the seasonings. Serve in a warmed bowl. Garnish with candied pepitas (see recipe below) and a swirl of&lt;br /&gt;pumpkin oil.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;em&gt;Side quest:&lt;/em&gt;&lt;/h2&gt;
-&lt;h1&gt;Candied Pepitas&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;1/2 cup pepitas (pumpkin seeds)&lt;/li&gt;
-&lt;li&gt;Powdered sugar&lt;/li&gt;
-&lt;li&gt;Pinch of salt&lt;/li&gt;
-&lt;li&gt;Pinch of espelette powder&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&quot;page&quot; class=&quot;cf&quot;&gt;
-&lt;div id=&quot;content&quot;&gt;
-&lt;div id=&quot;main&quot;&gt;
-&lt;div id=&quot;textContent&quot;&gt;
-&lt;p&gt;&lt;strong&gt;To make the candied pepitas:&lt;/strong&gt;&amp;nbsp;Toast pepitas in a preheated nonstick pan. Add enough powdered sugar to coat the pepitas. Add salt and espelette powder. Stir until sugar dissolves&amp;mdash;pumpkin seeds will pop. Remove from heat and let cool.&amp;shy;&amp;shy;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="34" name="green-split-pea" parent="31" title="Green Split Pea" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 07:16:15" updated="05/09/2014 22:33:50" published="03/04/2013 07:14:57" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=34" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[14]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb.  ,green split peas: dried
+1/2 lb.,brown lentils: dried
+3      ,large carrots: minced
+3      ,large celery stalks: minced
+1      ,large yellow onion: minced
+3-4    ,garlic cloves: minced
+3 qt.  ,chicken stock
+3 qt.  ,water
+,cumin (to taste)
+,italian seasoning
+,black pepper (freshly ground)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Rinse the peas &amp;amp; lentils and drain. Then soak the dried beans and minced carrots in 3 qt. of water. Bring the lentils and water to a simmer and simmer for 30 minutes.&lt;/p&gt;
+&lt;p&gt;Meanwhile, in another large pot saute the bacon until well done, then remove from the pot and reserve on the side (you&#39;ll need it later).&lt;/p&gt;
+&lt;p&gt;In the bacon fat, saute the finely chopped onion, celery, and garlic. Sprinkle the onions and celery with about 1/2 tsp of salt to help draw out their moisture. Cover the pot tightly and reduce the heat to medium-low. Cook undisturbed for about 20 minutes.&lt;/p&gt;
+&lt;p&gt;Check to see if a layer of fond (dark brown sticky or crusty substance) has formed on the bottom of the pot. If not, raise the heat slightly and continue to cook uncovered for another 10 minutes. Do not stir the mixture until the crust/fond begins to form.&lt;/p&gt;
+&lt;p&gt;Next, deglaze the fond with about 1/4 cup of white wine, scraping the brown bits off the bottom of the pot. When most of the alcohol has evaporated, add the chicken stock and the lentils with their 2qt. water. Don&#39;t throw out the starchy water, as it contributes to the texture of the soup!&lt;/p&gt;
+&lt;p&gt;Season to taste with ground black pepper, cumin, and italian seasoning.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Stir until well combined. Then transfer about 1/2 of the mixture plus the reserved bacon to a blender and puree as desired. Stir the puree back into the rest of the soup. Simmer for about 30 minutes more and serve hot.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

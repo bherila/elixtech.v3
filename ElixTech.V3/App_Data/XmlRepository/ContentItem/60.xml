@@ -1,9 +1,14 @@
-<item id="60" name="bolognese" parent="46" title="Bolognese" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 07:30:51" updated="04/12/2014 06:13:14" published="12/28/2013 07:29:18" expires="" sortOrder="90" url="/ContentPages/Index?n2page=60" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/46/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" /><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1/2 lb.,ground beef (80% lean)
-1/2 lb.,ground pork
-1/2 lb.,ground veal
-1/2 C.,whole milk
-28 oz.,can tomato puree
-14 oz.,can crushed tomatoes
-,salt
-,pepper
-,garlic]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" /></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-101.jpg]]></property></properties></item>
+<item id="60" name="the-best-prime-rib" parent="47" title="The Best Prime Rib" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 06:04:32" updated="05/09/2014 22:33:57" published="12/28/2013 06:03:45" expires="" sortOrder="80" url="/ContentPages/Index?n2page=60" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/2/5/6/28/47/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4 lb, bone in ribeye roast
+,garlic paste
+,thyme
+,kosher salt
+,cracked black pepper]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Everyone likes the end cut so I roast racks of 1 or 2 ribs at a time -- practically,&amp;nbsp;they&amp;#39;re really thick ribeye steaks. But the same method applies.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rub&lt;/strong&gt;&amp;nbsp;the roast with salt, pepper, thyme, and garlic paste.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sear&lt;/strong&gt;&amp;nbsp;the outside of the roast in a very hot cast iron skillet.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roast&lt;/strong&gt;&amp;nbsp;to desired temperature (I take mine out at 125 for medium-rare) at 225&amp;nbsp;degrees F. This can take several hours. Use a meat thermometer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let stand&lt;/strong&gt;&amp;nbsp;20 minutes before slicing and serving.&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/prime-rib.0004.jpg]]></property></properties></item>

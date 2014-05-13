@@ -1,2 +1,15 @@
-<item id="108" name="" parent="105" title="" zoneName="Right" templateKey="Index" state="16" created="12/28/2013 04:31:48" updated="04/12/2014 06:13:35" published="12/28/2013 04:31:52" expires="" sortOrder="0" url="/ContentPages/Index?n2page=104&amp;n2item=108" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="15" ancestralTrail="/1/4/5/104/105/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;New accounts are generally set up within 24 hours.&lt;/p&gt;
-]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[3571dda6-3c83-4acb-9f42-9015ddff575b]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>
+<item id="108" name="" parent="106" title="" zoneName="Left" templateKey="Index" state="16" created="12/28/2013 03:21:15" updated="05/09/2014 22:34:18" published="12/28/2013 03:21:28" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=105&amp;n2item=108" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="13" ancestralTrail="/2/5/6/105/106/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;N2CMS runs just fine on any ASP.NET based host, and I would encourage you to find the web hosting solution that best meets your needs. A great free option which works particularly well as a &amp;ldquo;backup&amp;rdquo; hosting plan or for development use is Windows Azure Websites, which you can access at www.windowsazure.com.&lt;/p&gt;
+
+&lt;p&gt;As a fallback, I can offer a limited number of people $15/month web hosting, which allows you unlimited domain names, one IIS site root on a platform that supports .NET 4.5., 5 GB of disk space, and &amp;ldquo;unlimited&amp;rdquo; bandwidth (for most normal uses). The $15/month cost helps defray the cost of maintaining the servers and also helps support further development on N2CMS. There is no &amp;quot;extra&amp;quot; tech support included, and I don&amp;#39;t offer this service to make a profit.&lt;/p&gt;
+
+&lt;p&gt;How to get web hosting: Contact me at ben@herila.net if you are interested in the $15/month option.&lt;/p&gt;
+
+&lt;h2&gt;Freelance support, web design services&lt;/h2&gt;
+
+&lt;p&gt;I currently have a backlog of work and am unable to immediately commit to new projects. If you would like to engage me as a consultant for accomplishing your web needs, please contact me at ben@herila.net. My rates are competitive, with basic (custom-designed) websites starting slightly under $1000 USD. Examples of my work can be found throughout this website.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your time, and for your contributions and participation in the N2CMS community. I look forward to meeting you in our online community!&lt;/p&gt;
+
+&lt;p&gt;Best wishes,&lt;br /&gt;
+Ben Herila&lt;/p&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[782ffd13-1b9e-481f-8899-0e8168c4cc91]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

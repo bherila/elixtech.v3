@@ -1,23 +1,10 @@
-<item id="44" name="chicken-tortilla" parent="30" title="Chicken Tortilla" zoneName="" templateKey="Recipe" state="16" created="12/28/2013 06:33:40" updated="04/12/2014 06:13:11" published="12/28/2013 06:27:38" expires="" sortOrder="100" url="/ContentPages/Index?n2page=44" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="5" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8-10]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[2 Q,chicken stock
-44 oz.,crushed tomatoes (canned)
-6-8,corn tortillas
-1 small,jalapeno pepper
-1/2,yellow onion
-3 cloves,crushed garlic
-1 small,chipolte chili pepper (can be canned)
-garnish,queso fresco
-garnish,green onions (optional)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Saute garlic,&amp;nbsp;onion, and jalapeno in the pot (medium heat) until the onion is translucent, about 15 minutes.&lt;/p&gt;
+<item id="44" name="roasted-tomato-basil" parent="31" title="Roasted Tomato Basil" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 06:40:00" updated="05/09/2014 22:33:52" published="09/22/2013 06:32:52" expires="" sortOrder="90" url="/ContentPages/Index?n2page=44" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[9]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[56 oz., canned whole tomatoes
+6-8, garlic cloves
+2 oz., fresh basil
+6 C., vegetable or chicken stock
+1/2 C., extra virgin olive oil]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Mince the garlic.&lt;/p&gt;
 
-&lt;p&gt;Add chicken stock and a few corn tortillas (torn into pieces)&amp;nbsp;and bring to a simmer. Blend with an immersion blender or food mill. Add more corn tortillas as desired to thicken the soup.&lt;/p&gt;
+&lt;p&gt;Reserve the juices from the tomatoes in the cans and roast the tomatoes under the broiler until you get bits of browned/blackened tomato. Deglaze all of this into a large soup pot in which you&amp;#39;ve sauteed the garlic. Add the basil,&amp;nbsp;stock, and salt/pepper to taste,&amp;nbsp;and simmer for 20 minutes.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Blend in the chipotle chili pepper pieces at a time until the soup reaches the desired spiciness. If you add a whole pepper or a whole can of peppers, be careful, as chipotle peppers can be very spicy!&lt;/p&gt;
-
-&lt;p&gt;Add tomatoes and bring to a simmer again. Blend to desired chunkiness. Serve hot. Add cubes of queso fresco&amp;nbsp;cheese and tortilla crisps just before serving. Garnish with green onions if desired.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;To make tortilla crisps&lt;/strong&gt;, cut corn tortillas into strips. Spray or lightly coat with oil and bake in the oven until crispy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Queso fresco&lt;/strong&gt;&amp;nbsp;cheese can usually be found near the mozzarella. If unavailable, you can substitute fresh cheese curds.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chipotle chili peppers&lt;/strong&gt;&amp;nbsp;can usually be found near the Mexican foods.&lt;/p&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2013/sq/tortilla-soup.9579.jpg]]></property></properties></item>
+&lt;p&gt;Set aside about 3 C. of the soup in a pot. Using an immersion blender, slowly emulsify the olive oil into the reserved soup, which will thicken and slightly lighten in color. Blend this mixture back into the pot of soup until it reaches the desired consistency. Season again as needed.&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-053.jpg]]></property></properties></item>

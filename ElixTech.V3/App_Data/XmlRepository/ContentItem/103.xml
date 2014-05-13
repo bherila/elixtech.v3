@@ -1,12 +1,42 @@
-<item id="103" name="" parent="5" title="" zoneName="BesideContent" templateKey="Index" state="16" created="10/07/2012 02:39:49" updated="04/12/2014 06:13:32" published="10/07/2012 02:39:49" expires="" sortOrder="11" url="/StartPage/Index?n2page=5&amp;n2item=103" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="0" ancestralTrail="/1/4/5/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Last but not least&lt;/h2&gt;
+<item id="103" name="" parent="98" title="" zoneName="Column2" templateKey="" state="16" created="09/29/2013 09:36:08" updated="05/09/2014 22:34:15" published="09/29/2013 09:36:12" expires="" sortOrder="20" url="/ContentPages/Index?n2page=97&amp;n2item=103" visible="True" savedBy="admin" typeName="N2.Web.RawHtml, N2.ReusableParts" discriminator="RawHtml" versionIndex="4" ancestralTrail="/2/5/6/97/98/" alteredPermissions="0" childState="2"><details><detail name="Body" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[		&lt;table class=&quot;contact rating-table&quot;&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Website&lt;/td&gt;
+				&lt;td&gt;www.bherila.net&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Email&lt;/td&gt;
+				&lt;td&gt;ben@herila.net&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Phone&lt;/td&gt;
+				&lt;td&gt;908-867-8890&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;/table&gt;
 
-&lt;p&gt;Thanks for visiting! If you have any questions please feel free to&amp;nbsp;&lt;a href=&quot;http://bherila.net/Contact.aspx&quot;&gt;contact me&lt;/a&gt;&amp;nbsp;- you can use the contact page or, if I&amp;#39;m online, the IM widget floating at the bottom of your browser.&lt;/p&gt;
-
-&lt;h2&gt;Links&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://outlook.com/herila.net&quot;&gt;Outlook.com for Herila.net&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/registry/wishlist/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;linkCode=ur2&amp;amp;tag=bherilanet-20&quot; target=&quot;_blank&quot;&gt;Amazon Wish List&lt;/a&gt;&lt;img alt=&quot;&quot; src=&quot;https://www.assoc-amazon.com/e/ir?t=bherilanet-20&amp;amp;l=ur2&amp;amp;o=1&quot; style=&quot;height:1px; margin:0px !important; width:1px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.elixtech.com&quot;&gt;Elix Technologies (my consulting and web hosting company)&lt;/a&gt;&lt;/p&gt;
-]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[b4eefce0-2076-42f8-9243-0b2dcc92871f]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">115</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://bherila.net/Contact.aspx]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">313</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://outlook.com/herila.net]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">394</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.amazon.com/gp/registry/wishlist/?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;linkCode=ur2&amp;amp;tag=bherilanet-20]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">573</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[https://www.assoc-amazon.com/e/ir?t=bherilanet-20&amp;amp;l=ur2&amp;amp;o=1]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">717</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.elixtech.com]]></value></detail></collection></detailCollections><children /><authorizations /><properties /></item>
+		&lt;h2&gt;Languages&lt;/h2&gt;
+		&lt;table class=&quot;rating-table&quot;&gt;
+			&lt;tr&gt;&lt;td&gt;C, C++&lt;/td&gt;        &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;C#, LINQ&lt;/td&gt;            &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;HTML, XML, CSS, JS&lt;/td&gt; &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Java&lt;/td&gt;          &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;PowerShell, Python, PHP&lt;/td&gt;   &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;/table&gt;
+		&lt;table class=&quot;rating-table&quot; style=&quot;margin-top: 0.75em;&quot;&gt;
+			&lt;tr&gt;&lt;td&gt;English&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Latin&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;French&lt;/td&gt;		&lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star x&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;/table&gt;
+		&lt;h2&gt;Platforms&lt;/h2&gt;
+		&lt;table class=&quot;rating-table&quot;&gt;
+			&lt;tr&gt;&lt;td&gt;Windows&lt;/td&gt;       &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Linux&lt;/td&gt;         &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Mac&lt;/td&gt;           &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;/table&gt;
+		&lt;h2&gt;Software&lt;/h2&gt;
+		&lt;table class=&quot;rating-table&quot;&gt;
+			&lt;tr&gt;&lt;td&gt;MS Office&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Photoshop, Fireworks CS6, Lightroom 4&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;Bash, grep, awk, etc.&lt;/td&gt;     &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+			&lt;tr&gt;&lt;td&gt;MySQL, MSSQL&lt;/td&gt;  &lt;td class=&quot;rating hidden-xs&quot;&gt;&lt;div class=&quot;star xxxx&quot;&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;/table&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[66bc56e7-102a-42ee-b2c3-15d146c4dd72]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>

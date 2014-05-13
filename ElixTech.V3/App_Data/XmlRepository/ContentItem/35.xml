@@ -1,10 +1,36 @@
-<item id="35" name="stracciatelle" parent="30" title="Stracciatelle" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:27:51" updated="04/12/2014 06:13:10" published="03/04/2013 08:27:02" expires="" sortOrder="10" url="/ContentPages/Index?n2page=35" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[4]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[32 oz.   ,homemade chicken stock
-1 tsp.   ,lemon juice
-1 large  ,bunch of spinach: cut into strips
-4        ,eggs
-         ,grated parmesean cheese]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Scramble eggs in a small bowl with 1 tablespoon of water and 1 teaspoon of lemon juice.&lt;/p&gt;
-&lt;p&gt;Bring stock to a boil, drop egg mixture into boiling stock, add spinach and simmer for 2 minutes.&lt;/p&gt;
-&lt;p&gt;Divide into bowls and top with some grated parmesean cheese.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Italian egg drop soup. Stracciatelle means &quot;little rags&quot; in Italian. The name for this soup refers to the thin rag-like strips of spinach. Finish the soup with a sprinkle of pepper and parmesean cheese.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[Italian egg drop soup. Stracciatelle means "little rags" in Italian. The name for this soup refers to the thin rag-like strips of spinach. Finish the soup with a sprinkle of pepper and parmesean cheese. ]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="35" name="roasted-pumpkin" parent="31" title="Roasted Pumpkin" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 07:21:02" updated="05/09/2014 22:33:50" published="03/04/2013 07:20:15" expires="" sortOrder="0" url="/ContentPages/Index?n2page=35" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8-10]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 1/2 lbs, of pumpkin (3 cups)
+1, Vidalia onion (chopped)
+1 cup, carrots (peeled and diced)
+1 cup, celery (diced)
+1 Tbsp., olive oil
+6, garlic cloves
+2, bay leaves
+1, Tbsp. peppercorn
+1, fresh thyme sprig (or 2 tsp. dried)
+4 cups, chicken stock
+2, cinnamon sticks
+1 1/2 tsp., espelette powder or paprika
+1 cup, low-fat yogurt
+,Pumpkin seed oil
+,Salt and pepper to taste]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Preheat oven to 350&amp;deg;.&lt;/p&gt;
+&lt;p&gt;Cut the pumpkin in half and place it, cut side down, on an oiled baking sheet. Bake until it is easily pierced with a knife (about 45 minutes). Let cool. Scoop the flesh and discard the skin and seeds. Press the pumpkin flesh through a strainer.&lt;/p&gt;
+&lt;p&gt;Warm the olive oil in a soup pot over medium heat. Sweat the carrots, onion, garlic until translucent for about 5 to 10 minutes. Add the dry spices and the aromatics. Add the pumpkin puree and chicken stock. Bring to a boil and simmer for about 15 minutes. Add entire mixture into a blender and blend.&lt;/p&gt;
+&lt;p&gt;Put back in a pot to gently simmer. Finish with yogurt and adjust the seasonings. Serve in a warmed bowl. Garnish with candied pepitas (see recipe below) and a swirl of&lt;br /&gt;pumpkin oil.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;em&gt;Side quest:&lt;/em&gt;&lt;/h2&gt;
+&lt;h1&gt;Candied Pepitas&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1/2 cup pepitas (pumpkin seeds)&lt;/li&gt;
+&lt;li&gt;Powdered sugar&lt;/li&gt;
+&lt;li&gt;Pinch of salt&lt;/li&gt;
+&lt;li&gt;Pinch of espelette powder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&quot;page&quot; class=&quot;cf&quot;&gt;
+&lt;div id=&quot;content&quot;&gt;
+&lt;div id=&quot;main&quot;&gt;
+&lt;div id=&quot;textContent&quot;&gt;
+&lt;p&gt;&lt;strong&gt;To make the candied pepitas:&lt;/strong&gt;&amp;nbsp;Toast pepitas in a preheated nonstick pan. Add enough powdered sugar to coat the pepitas. Add salt and espelette powder. Stir until sugar dissolves&amp;mdash;pumpkin seeds will pop. Remove from heat and let cool.&amp;shy;&amp;shy;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

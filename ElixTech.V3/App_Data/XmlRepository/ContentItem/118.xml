@@ -1,1 +1,24 @@
-<item id="118" name="" parent="117" title="" zoneName="BelowContent" templateKey="Index" state="16" created="10/05/2013 19:50:44" updated="04/12/2014 06:13:41" published="10/05/2013 19:50:50" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=117&amp;n2item=118" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="3" ancestralTrail="/1/4/111/112/117/" alteredPermissions="0" childState="2"><details><detail name="Text" typeName="System.String, mscorlib" meta="" /><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[b66e1df6-e1cc-4dff-9ef4-03b3a9b6c408]]></detail></details><detailCollections /><children /><authorizations /><properties /></item>
+<item id="118" name="software" parent="113" title="Software" zoneName="" templateKey="TwoColumn" state="16" created="09/22/2013 18:30:57" updated="05/09/2014 22:34:25" published="09/22/2013 18:30:49" expires="" sortOrder="0" url="/ContentPages/Index?n2page=118" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="4" ancestralTrail="/2/5/112/113/" alteredPermissions="0" childState="128"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Business Applications&lt;/h2&gt;
+
+&lt;p&gt;We specialize in building state of the art, business solutions such as custom CRM systems, billing, project management, and more. Our team of talented computer scientists and software engineers can work with you to build a complete system to suit your business needs, or a custom application to your exact specifications.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;&lt;strong&gt;Desktops and notebook PCs:&amp;nbsp;&lt;/strong&gt;Linux, Apple/Mac, Windows, and Metro-style for Windows 8&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Mobile phones:&amp;nbsp;&lt;/strong&gt;iPhone, Windows Phone 7.5, Android&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Web applications&amp;nbsp;&lt;/strong&gt;for all platforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Scientific Computing&lt;/h2&gt;
+
+&lt;p&gt;Specialists in Computer Science, Applied Mathematics, and Computational Economics are available to work on special projects such as model building, high performance computing, probabilistic computing, and more. Our partners are graduates of prestigious universities such as Brown University and Harvard, and have worked for&amp;nbsp;high-profile companies such as Goldman Sachs, Microsoft, NetApp, and Google.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:20px&quot;&gt;
+	&lt;li&gt;Your platform choice: Linux, Windows, Hadoop, Amazon EC2, Azure&lt;/li&gt;
+	&lt;li&gt;Your language choice:
+	&lt;ul style=&quot;margin-left:20px&quot;&gt;
+		&lt;li&gt;C++, C#, F#, Java, Python, MATLAB, or R&lt;/li&gt;
+		&lt;li&gt;MySQL, SQL Server, SQLite, and various no-SQL options&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="ParentID" typeName="System.Int32, mscorlib" meta="">86</detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[78f79d39-5bca-4bfe-a7ca-81a9340d07e7]]></detail></details><detailCollections /><children><child id="119" name="119" versionIndex="3" versionKey="b66e1df6-e1cc-4dff-9ef4-03b3a9b6c408" /><child id="120" name="120" versionIndex="4" versionKey="ebd69b7d-ad15-4f5c-b52d-84d087e87ab5" /></children><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

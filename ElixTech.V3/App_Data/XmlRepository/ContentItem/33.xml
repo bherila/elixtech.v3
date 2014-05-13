@@ -1,18 +1,16 @@
-<item id="33" name="green-split-pea" parent="30" title="Green Split Pea" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 08:16:15" updated="04/12/2014 06:13:10" published="03/04/2013 08:14:57" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=33" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[14]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[1 lb.  ,green split peas: dried
-1/2 lb.,brown lentils: dried
-3      ,large carrots: minced
-3      ,large celery stalks: minced
-1      ,large yellow onion: minced
-3-4    ,garlic cloves: minced
-3 qt.  ,chicken stock
-3 qt.  ,water
-,cumin (to taste)
-,italian seasoning
-,black pepper (freshly ground)]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Rinse the peas &amp;amp; lentils and drain. Then soak the dried beans and minced carrots in 3 qt. of water. Bring the lentils and water to a simmer and simmer for 30 minutes.&lt;/p&gt;
-&lt;p&gt;Meanwhile, in another large pot saute the bacon until well done, then remove from the pot and reserve on the side (you&#39;ll need it later).&lt;/p&gt;
-&lt;p&gt;In the bacon fat, saute the finely chopped onion, celery, and garlic. Sprinkle the onions and celery with about 1/2 tsp of salt to help draw out their moisture. Cover the pot tightly and reduce the heat to medium-low. Cook undisturbed for about 20 minutes.&lt;/p&gt;
-&lt;p&gt;Check to see if a layer of fond (dark brown sticky or crusty substance) has formed on the bottom of the pot. If not, raise the heat slightly and continue to cook uncovered for another 10 minutes. Do not stir the mixture until the crust/fond begins to form.&lt;/p&gt;
-&lt;p&gt;Next, deglaze the fond with about 1/4 cup of white wine, scraping the brown bits off the bottom of the pot. When most of the alcohol has evaporated, add the chicken stock and the lentils with their 2qt. water. Don&#39;t throw out the starchy water, as it contributes to the texture of the soup!&lt;/p&gt;
-&lt;p&gt;Season to taste with ground black pepper, cumin, and italian seasoning.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Stir until well combined. Then transfer about 1/2 of the mixture plus the reserved bacon to a blender and puree as desired. Stir the puree back into the rest of the soup. Simmer for about 30 minutes more and serve hot.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+<item id="33" name="french-onion" parent="31" title="French Onion" zoneName="" templateKey="Recipe" state="16" created="03/04/2013 07:14:03" updated="05/09/2014 22:33:50" published="03/04/2013 07:08:00" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=33" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[6-8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[5,large yellow onions (about 5 lbs.)
+3 tbs.,unsalted butter
+5 cups,chicken stock
+5 cups,beef stock
+1 cup,hearty red wine
+1/3 cup,cognac or brandy
+1 tbs.,black pepper (freshly ground)
+1 tsp.,thyme (dried) -- or 1 sprig fresh
+,salt to taste]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Begin by completely filling a Dutch oven or oven safe pot with sliced or chopped onions. Bake at 400&amp;deg;for 1 hour. Deglaze the pan with half of the wine, scraping any browned bits &amp;nbsp;off the sides and bottom of the pan with a wooden spoon. Scrape off the spoon to return any remaining crusty bits into the pot. Mix well.&lt;/p&gt;
+
+&lt;p&gt;Reduce the temperature to 350&amp;deg; (you don&amp;#39;t have to wait for the oven to cool down) and bake for another hour. Deglaze with the brandy or cognac, then move the Dutch oven to the stove top. Turn heat to medium, and cook uncovered until the liquid evaporates and another layer of fond forms on the bottom of the pan, about 10-15 minutes.&amp;nbsp;&lt;em&gt;Do not let the onions burn!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Deglaze the pan a third time, with the other half of the wine. Allow another layer of crust to form, and deglaze the pan one final time, by adding the&amp;nbsp;thyme, and the equal parts chicken and beef stock (substitute veal stock, if you have it) until the onions are covered. Add salt and pepper to taste, and simmer for about 30 minutes longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;Serve piping hot, with toasted crusty bread and gruyere cheese melted under the broiler.&lt;/span&gt;&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-104.jpg]]></property></properties></item>

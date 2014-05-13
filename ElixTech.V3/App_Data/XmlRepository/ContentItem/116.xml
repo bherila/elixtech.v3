@@ -1,24 +1,18 @@
-<item id="116" name="hybrid-print-design" parent="112" title="Hybrid Print Design" zoneName="" templateKey="TwoColumn" state="16" created="09/22/2013 19:30:39" updated="04/12/2014 06:13:39" published="09/22/2013 19:30:33" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=116" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="3" ancestralTrail="/1/4/111/112/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Take your print or online publications to the next level with our &lt;strong&gt;Hybrid Publications&lt;/strong&gt;. We partner with extraordinary award-winning designers to deliver a seamless publication experience spanning web, print, and video, on time and within budget. Continue to distribute your existing publication in print and augment it with interactive online elements. Save on distribution costs by sending only digital versions to certain recipients. The possibilities are endless.&lt;/p&gt;
+<item id="116" name="web" parent="113" title="Web" zoneName="" templateKey="TwoColumn" state="16" created="09/22/2013 18:30:21" updated="05/09/2014 22:34:23" published="09/22/2013 18:30:14" expires="" sortOrder="-10" url="/ContentPages/Index?n2page=116" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/2/5/112/113/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;div&gt;
+&lt;h2&gt;Your website is your online identity, so why leave it to chance? Elix creates award-winning websites and web applications that speak for themselves.&lt;/h2&gt;
+&lt;/div&gt;
 
-&lt;h2&gt;Sample Applications&lt;/h2&gt;
+&lt;div&gt;
+&lt;h3&gt;Expertise Across Platforms&lt;/h3&gt;
 
-&lt;ul style=&quot;margin-left: 20px;&quot;&gt;
-	&lt;li&gt;Magazines&lt;/li&gt;
-	&lt;li&gt;Annual Reports&lt;/li&gt;
-	&lt;li&gt;Pamphlets and Brochures&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We are experts in Windows and Linux technologies, and can work with you to build an outstanding website that meets your platform needs.&lt;/p&gt;
 
-&lt;h2&gt;Benefits&lt;/h2&gt;
+&lt;h3&gt;Integrated Online Services&lt;/h3&gt;
 
-&lt;ul style=&quot;margin-left: 20px;&quot;&gt;
-	&lt;li&gt;Significantly reduce printing and distribution costs&lt;/li&gt;
-	&lt;li&gt;Save ink and trees to have a positive impact on the environment&lt;/li&gt;
-	&lt;li&gt;Introduce interactive elements into new online publications&lt;/li&gt;
-	&lt;li&gt;Cut time to market with digital distribution&lt;/li&gt;
-	&lt;li&gt;Enhanced analytics powered by Google support deep business intelligence, reporting, and data mining&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;An online portal allows you to manage your project budget, timeline, and tasks. Browse it online or interact with it directly via e-mail for the ultimate in collaboration. Hosting services for your website under development are always included at no cost to you.&lt;/p&gt;
 
-&lt;h3&gt;Get Started&lt;/h3&gt;
+&lt;h3&gt;Startups and Non-Profits&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://elixtech.com/about-us/contact.aspx&quot;&gt;Contact us today&lt;/a&gt;&amp;nbsp;for a no-cost, no-obligation consultation and cost estimate. We will work with you to design a solution that can fit any scale and budget.&lt;/p&gt;
-]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">1125</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://elixtech.com/about-us/contact.aspx]]></value></detail></collection></detailCollections><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+&lt;p&gt;We have the ability to provide free or low-cost engineering resources to a limited number of startups and registered 5013(c) non-profits. If you are a startup or non-profit in need of a development and engineering team, please contact us for availability.&lt;/p&gt;
+&lt;/div&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>

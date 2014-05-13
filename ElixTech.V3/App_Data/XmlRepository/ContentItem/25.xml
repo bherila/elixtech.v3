@@ -1,14 +1,20 @@
-<item id="25" name="more-projects" parent="10" title="More Projects" zoneName="" templateKey="Index" state="16" created="09/22/2013 05:43:54" updated="04/12/2014 06:13:09" published="09/22/2013 05:43:40" expires="" sortOrder="30" url="/ContentPages/Index?n2page=25" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/1/4/5/10/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h1&gt;More Projects&lt;/h1&gt;
+<item id="25" name="" parent="24" title="" zoneName="BelowContent" templateKey="ImageAndText" state="16" created="09/22/2013 04:50:42" updated="05/09/2014 22:33:48" published="09/22/2013 04:52:03" expires="" sortOrder="0" url="/ContentPages/Index?n2page=24&amp;n2item=25" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPart, ElixTech.V3" discriminator="ContentPart" versionIndex="3" ancestralTrail="/2/5/6/11/24/" alteredPermissions="0" childState="2"><details><detail name="ImageFirst" typeName="System.Boolean, mscorlib" meta="">False</detail><detail name="HiddenPhone" typeName="System.Boolean, mscorlib" meta="">False</detail><detail name="Image" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[/upload/projects/lemonade-narrow.png]]></detail><detail name="Description" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;h2&gt;Lemonade&lt;/h2&gt;
 
-&lt;div&gt;
-&lt;p&gt;I have also worked on many more projects via a consulting business that I started in 2007. Some of these projects are showcased&amp;nbsp;at&amp;nbsp;&lt;a href=&quot;http://www.elixtech.com/&quot;&gt;Elix Technologies&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;This is a software program to model demand states for an imaginary business using Bayesian networks and Monte Carlo methods.&lt;/p&gt;
 
-&lt;div&gt;
-&lt;ul style=&quot;margin-left:20px&quot;&gt;
-	&lt;li&gt;&lt;a href=&quot;http://www.roessner.net/bd-online-annual-report-web-design&quot;&gt;Becton Dickinson Online Annual Report&lt;/a&gt;&amp;nbsp;- implemented given design&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;http://www.roessner.net/middlesex-water-company-web-design&quot;&gt;Middlesex Water Company&lt;/a&gt;&amp;nbsp;- co-designed and implemented&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;http://www.roessner.net/far-hills-country-day-school-web-design&quot;&gt;Far Hills Country Day School&lt;/a&gt;&amp;nbsp;- co-designed and implemented&lt;/li&gt;
+&lt;p&gt;Developed in&amp;nbsp;&lt;em&gt;cs141: Introduction to Artificial Intelligence&lt;/em&gt;&amp;nbsp;at Brown University in Spring, 2009.&lt;/p&gt;
+
+&lt;h3&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Java Swing graphical display (using JFreeChart)&lt;/li&gt;
+	&lt;li&gt;Mean and percentile demand state estimations&lt;/li&gt;
+	&lt;li&gt;Bayes and Monte Carlo methods&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">186</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.elixtech.com/]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">302</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.roessner.net/bd-online-annual-report-web-design]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">456</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.roessner.net/middlesex-water-company-web-design]]></value></detail><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Text"><value key="Bool">True</value><value key="Int">599</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[http://www.roessner.net/far-hills-country-day-school-web-design]]></value></detail></collection></detailCollections><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
+
+&lt;h3&gt;Demonstration&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Available upon request (Java)&lt;/li&gt;
+&lt;/ul&gt;
+]]></detail><detail name="VersionKey" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[d125f1b4-7ff1-4ea8-b358-b0d751bf7ff6]]></detail></details><detailCollections><collection name="TrackedLinks"><detail name="TrackedLinks" typeName="N2.Details.IMultipleValue, N2" meta="Image"><value key="Bool">False</value><value key="Int">0</value><value key="Link">0</value><value key="String" encoded="True"><![CDATA[/upload/projects/lemonade-narrow.png]]></value></detail></collection></detailCollections><children /><authorizations /><properties /></item>

@@ -1,10 +1,17 @@
-<item id="43" name="roasted-tomato-basil" parent="30" title="Roasted Tomato Basil" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 07:40:00" updated="04/12/2014 06:13:11" published="09/22/2013 07:32:52" expires="" sortOrder="90" url="/ContentPages/Index?n2page=43" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/1/4/5/27/30/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[9]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[56 oz., canned whole tomatoes
-6-8, garlic cloves
-2 oz., fresh basil
-6 C., vegetable or chicken stock
-1/2 C., extra virgin olive oil]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Mince the garlic.&lt;/p&gt;
+<item id="43" name="chicken-noodle" parent="31" title="Chicken Noodle" zoneName="" templateKey="Recipe" state="16" created="09/22/2013 06:12:14" updated="05/09/2014 22:33:52" published="09/22/2013 06:05:31" expires="" sortOrder="80" url="/ContentPages/Index?n2page=43" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="1" ancestralTrail="/2/5/6/28/31/" alteredPermissions="0" childState="2"><details><detail name="Servings" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[8]]></detail><detail name="Data" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[12 C., chicken stock
+1/2 lb., egg noodles
+1/2 lb., carrots
+1/2 lb., celery
+1/4 lb.,yellow onion
+1/2 lb., boneless chicken meat
+2 T.,  parsley
+1,bay leaf]]></detail><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;&lt;em&gt;The hard part is really getting the broth right. Follow the instructions on the Chicken Stock recipe and you should be good to go.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Reserve the juices from the tomatoes in the cans and roast the tomatoes under the broiler until you get bits of browned/blackened tomato. Deglaze all of this into a large soup pot in which you&amp;#39;ve sauteed the garlic. Add the basil,&amp;nbsp;stock, and salt/pepper to taste,&amp;nbsp;and simmer for 20 minutes.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;First, chop the carrots, celery, and onion. Add the vegetables to your soup pot along with some olive oil and saute for about 15 minutes or until they are translucent. Add the chicken meat and cover tightly. Continue to saute for 10-15 minutes longer covered tightly. There should be a pleasant chicken aroma at this point.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Set aside about 3 C. of the soup in a pot. Using an immersion blender, slowly emulsify the olive oil into the reserved soup, which will thicken and slightly lighten in color. Blend this mixture back into the pot of soup until it reaches the desired consistency. Season again as needed.&lt;/p&gt;
-]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-053.jpg]]></property></properties></item>
+&lt;p&gt;Next, add the parsely and bay leaf. Add the chicken stock and simmer for 20 minutes.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Add the pasta and simmer for 10 minutes longer.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Salt and pepper to taste and serve hot!&lt;/p&gt;
+]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[/upload/cooking-2012/squares/2012-Cooking-082.jpg]]></property></properties></item>

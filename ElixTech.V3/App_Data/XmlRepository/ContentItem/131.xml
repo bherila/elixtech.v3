@@ -1,18 +1,9 @@
-<item id="131" name="pc-maintenance" parent="128" title="PC Maintenance" zoneName="" templateKey="Index" state="16" created="09/22/2013 19:46:37" updated="04/12/2014 06:13:53" published="09/22/2013 19:46:22" expires="" sortOrder="-2" url="/ContentPages/Index?n2page=131" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="2" ancestralTrail="/1/4/111/128/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Keep your business PCs running at top performance with a maintenance solution from Elix Technologies. We will ensure that your business PCs and servers are always running the latest security updates and software. In addition, we can help your company ensure that you remain compliant with software licensing requirements.&amp;nbsp;&lt;/p&gt;
+<item id="131" name="data-protection" parent="129" title="Data Protection" zoneName="" templateKey="Index" state="16" created="09/22/2013 18:45:55" updated="05/09/2014 22:34:35" published="09/22/2013 18:41:54" expires="" sortOrder="-5" url="/ContentPages/Index?n2page=131" visible="True" savedBy="admin" typeName="Dinamico.Models.ContentPage, ElixTech.V3" discriminator="ContentPage" versionIndex="0" ancestralTrail="/2/5/112/129/" alteredPermissions="0" childState="2"><details><detail name="Author" typeName="System.String, mscorlib" meta="" /><detail name="Keywords" typeName="System.String, mscorlib" meta="" /><detail name="Description" typeName="System.String, mscorlib" meta="" /><detail name="SeoTitle" typeName="System.String, mscorlib" meta="" /><detail name="Text" typeName="System.String, mscorlib" meta="" encoded="True"><![CDATA[&lt;p&gt;Your backup is only as good as its last restore. With options for data protection assurance of all levels, we can help your family&amp;nbsp;or your business design a data protection plan that is right for you.&amp;nbsp;&lt;/p&gt;
 
-&lt;h2&gt;Computer Running Slow?&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Redundant storage&lt;/strong&gt;&amp;nbsp;enables your data to be always available and protected against hardware failure in real time.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Backup&lt;/strong&gt;&amp;nbsp;enables you to &amp;quot;roll back&amp;quot; to a point in the past and recover from unexpected disasters, including data corruption and&amp;nbsp;user errors such as accidental deletion.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3&gt;Hard Drives&lt;/h3&gt;
-
-&lt;p&gt;Install a&amp;nbsp;&lt;strong&gt;solid-state drive&lt;/strong&gt;&amp;nbsp;for peak performance. Many of our customers report speed-ups of 2x to 10x prior performance, and&amp;nbsp;&lt;strong&gt;boot-up times reduced to as little as 7 seconds&lt;/strong&gt;. In many cases, we can perform the upgrade in-place without compromising any data.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Running low on storage? Install one or more&amp;nbsp;&lt;strong&gt;additional hard drives&lt;/strong&gt;, available in a variety of sizes to meet all your storage needs. We can also upgrade storage in-place, without compromising any data, in case there isn&amp;#39;t room for another drive -- ideal for laptops!&lt;/p&gt;
-
-&lt;h3&gt;Memory&lt;/h3&gt;
-
-&lt;p&gt;Run more programs at once and cache data for faster access. Memory is an inexpensive upgrade that can boost the performance of your computer dramatically.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3&gt;Graphics Card/GPU&lt;/h3&gt;
-
-&lt;p&gt;Installing a new graphics card boosts the performance of graphical applications including CAD software, 3D rendering software, Microsoft Office, web browsing, and video games.&lt;/p&gt;
+&lt;p&gt;We are proud to offer the best in backup consulting services with our pristine track record of &lt;strong&gt;no customer data lost -- ever --&amp;nbsp;since we began offering this service in 2007&lt;/strong&gt;. Please call or e-mail us today to discuss how we can help you create a backup plan that is right for you.&amp;nbsp;&lt;/p&gt;
 ]]></detail></details><detailCollections /><children /><authorizations /><properties><property name="Summary" typeName="System.String, mscorlib"><![CDATA[]]></property><property name="Image" typeName="System.String, mscorlib"><![CDATA[]]></property></properties></item>
