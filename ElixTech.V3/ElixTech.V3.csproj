@@ -1100,32 +1100,6 @@
     <Content Include="Scripts\metrojs\MetroJs.js" />
     <Content Include="Scripts\metrojs\MetroJs.min.css" />
     <Content Include="Scripts\metrojs\MetroJs.min.js" />
-    <Content Include="Upload\Images\copter.jpg" />
-    <Content Include="Upload\Images\copter_half.jpg" />
-    <Content Include="Upload\Images\copter_icon.jpg" />
-    <Content Include="Upload\Images\copter_original.jpg" />
-    <Content Include="Upload\Images\copter_thumb.jpg" />
-    <Content Include="Upload\Images\copter_wide.jpg" />
-    <Content Include="Upload\Images\fronds.jpg" />
-    <Content Include="Upload\Images\fronds_half.jpg" />
-    <Content Include="Upload\Images\fronds_icon.jpg" />
-    <Content Include="Upload\Images\fronds_original.jpg" />
-    <Content Include="Upload\Images\fronds_thumb.jpg" />
-    <Content Include="Upload\Images\fronds_wide.jpg" />
-    <Content Include="Upload\Images\jetty.jpg" />
-    <Content Include="Upload\Images\jetty_half.jpg" />
-    <Content Include="Upload\Images\jetty_icon.jpg" />
-    <Content Include="Upload\Images\jetty_original.jpg" />
-    <Content Include="Upload\Images\jetty_thumb.jpg" />
-    <Content Include="Upload\Images\jetty_wide.jpg" />
-    <Content Include="Upload\Images\reeds.jpg" />
-    <Content Include="Upload\Images\reeds_half.jpg" />
-    <Content Include="Upload\Images\reeds_icon.jpg" />
-    <Content Include="Upload\Images\reeds_original.jpg" />
-    <Content Include="Upload\Images\reeds_thumb.jpg" />
-    <Content Include="Upload\Images\reeds_wide.jpg" />
-    <Content Include="Upload\n2logo.png" />
-    <Content Include="Upload\n2logo_white.png" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -1139,6 +1113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Upload\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
